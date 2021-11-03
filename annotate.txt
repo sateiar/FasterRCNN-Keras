@@ -1,0 +1,1601 @@
+train_image/50443.pdf_31.png,14,8,1642,2327,non_Relevant
+train_image/50443.pdf_25.png,14,14,1642,2327,non_Relevant
+train_image/56047.pdf_1.png,612,91,1365,235,Hospital_Name
+train_image/56047.pdf_1.png,93,254,1600,535,Patient_Detail
+train_image/56047.pdf_1.png,93,541,1631,1091,Table
+train_image/50464.pdf_7.png,68,260,1559,554,Patient_Detail
+train_image/50464.pdf_7.png,75,560,1650,2254,Table
+train_image/238727.pdf_8.png,55,1073,1598,2173,Table
+train_image/238727.pdf_8.png,40,441,1605,1073,Patient_Detail
+train_image/238727.pdf_8.png,87,51,673,401,Hospital_Name
+train_image/239810.pdf_4.png,39,15,1645,2338,non_Relevant
+train_image/238622.pdf_16.png,15,2,1653,2325,non_Relevant
+train_image/62142.pdf_13.png,12,27,1631,2327,non_Relevant
+train_image/50443.pdf_19.png,17,20,1649,2320,non_Relevant
+train_image/238727.pdf_28.png,12,30,1640,2326,non_Relevant
+train_image/238727.pdf_14.png,12,19,1612,2319,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_22.png,967,104,1599,322,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_22.png,67,440,1599,972,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_22.png,27,990,1631,1736,Table
+train_image/234081.pdf_7.png,17,220,1406,1628,Table
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_2.png,25,30,1553,2301,non_Relevant
+train_image/238634.pdf_2.png,164,163,1641,1321,Table
+train_image/200599.pdf_12.png,945,114,1529,308,Hospital_Name
+train_image/200599.pdf_12.png,70,448,1445,973,Patient_Detail
+train_image/200599.pdf_12.png,54,1008,1516,1817,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_25.png,165,12,1639,2349,non_Relevant
+train_image/56091.pdf_5.png,87,272,1587,554,Patient_Detail
+train_image/56091.pdf_5.png,87,563,1609,1569,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_19.png,1,42,1613,2173,non_Relevant
+train_image/54167.pdf_2.png,100,260,1578,541,Patient_Detail
+train_image/54167.pdf_2.png,96,544,1631,2254,Table
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_6.png,12,3,1654,2291,non_Relevant
+train_image/56024.pdf_2.png,90,247,1562,547,Patient_Detail
+train_image/56024.pdf_2.png,93,557,1637,2247,Table
+train_image/238620.pdf_2.png,80,383,1637,855,Patient_Detail
+train_image/238620.pdf_2.png,73,876,1638,2339,Table
+train_image/71454.pdf_5.png,25,9,1637,2321,non_Relevant
+train_image/238626 - LAM WAH EE.pdf_12.png,33,13,1690,2200,non_Relevant
+train_image/54113.pdf_9.png,90,257,1609,557,Patient_Detail
+train_image/54113.pdf_9.png,93,557,1637,2282,Table
+train_image/200593.pdf_8.png,20,23,1629,2330,non_Relevant
+train_image/238681.pdf_5.png,382,76,1157,305,Hospital_Name
+train_image/238681.pdf_5.png,61,430,1586,866,Patient_Detail
+train_image/238681.pdf_5.png,43,887,1589,2308,Table
+train_image/239086.pdf_4.png,117,141,1649,2216,Table
+train_image/238747.pdf_3.png,40,144,626,491,Patient_Detail
+train_image/238747.pdf_3.png,47,513,1552,1197,Patient_Detail
+train_image/238747.pdf_3.png,38,1205,1638,2308,Table
+train_image/239834.pdf_12.png,8,12,1555,2298,non_Relevant
+train_image/54113.pdf_12.png,87,229,1621,557,Patient_Detail
+train_image/54113.pdf_12.png,87,557,1631,2288,Table
+train_image/234081.pdf_16.png,52,22,1657,2337,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_21.png,24,14,1664,2219,Table
+train_image/238768.pdf_9.png,39,17,1636,2331,non_Relevant
+train_image/239038.pdf_7.png,11,10,1696,2270,non_Relevant
+train_image/239038.pdf_29.png,19,3,1672,2299,non_Relevant
+train_image/239086.pdf_12.png,42,12,1660,2291,non_Relevant
+train_image/239038.pdf_15.png,53,24,1664,937,Table
+train_image/239038.pdf_14.png,28,17,1642,2103,Table
+train_image/239086.pdf_13.png,3,8,1664,2336,non_Relevant
+train_image/239038.pdf_28.png,15,14,1633,2278,non_Relevant
+train_image/238596.pdf_40.png,65,123,1640,2340,non_Relevant
+train_image/239038.pdf_6.png,15,10,1688,2336,non_Relevant
+train_image/238768.pdf_8.png,54,35,1634,2335,non_Relevant
+train_image/234081.pdf_17.png,1,44,1649,2066,non_Relevant
+train_image/239785.pdf_1.png,48,25,1590,2215,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_20.png,3,21,1617,2210,Table
+train_image/238747.pdf_2.png,48,180,1598,1401,Table
+train_image/62035.pdf_1.png,590,126,1353,263,Hospital_Name
+train_image/62035.pdf_1.png,103,279,1621,554,Patient_Detail
+train_image/62035.pdf_1.png,96,557,1640,1154,Table
+train_image/54113.pdf_13.png,87,244,1625,554,Patient_Detail
+train_image/54113.pdf_13.png,87,557,1640,2297,Table
+train_image/239834.pdf_13.png,37,19,1654,2319,non_Relevant
+train_image/239086.pdf_5.png,81,166,1628,462,Table
+train_image/238681.pdf_4.png,400,91,1143,294,Hospital_Name
+train_image/238681.pdf_4.png,78,433,1586,851,Patient_Detail
+train_image/238681.pdf_4.png,53,876,1611,2269,Table
+train_image/200593.pdf_9.png,10,14,1641,2330,non_Relevant
+train_image/54113.pdf_8.png,84,266,1603,560,Patient_Detail
+train_image/54113.pdf_8.png,90,572,1634,2232,Table
+train_image/238626 - LAM WAH EE.pdf_13.png,26,18,1700,2194,non_Relevant
+train_image/71454.pdf_4.png,15,12,1631,2331,non_Relevant
+train_image/238620.pdf_3.png,80,405,1630,844,Patient_Detail
+train_image/238620.pdf_3.png,51,876,1603,2339,Table
+train_image/56024.pdf_3.png,90,254,1603,554,Patient_Detail
+train_image/56024.pdf_3.png,96,557,1628,2260,Table
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_7.png,39,16,1654,2314,non_Relevant
+train_image/54167.pdf_3.png,81,251,1584,551,Patient_Detail
+train_image/54167.pdf_3.png,87,554,1628,2216,Table
+train_image/56091.pdf_4.png,96,254,1571,554,Patient_Detail
+train_image/56091.pdf_4.png,103,566,1634,2235,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_18.png,64,14,1575,2217,non_Relevant
+train_image/54125.pdf_1.png,139,418,1624,768,Patient_Detail
+train_image/54125.pdf_1.png,142,774,1592,1884,Table
+train_image/200599.pdf_13.png,985,123,1545,314,Hospital_Name
+train_image/200599.pdf_13.png,98,439,1382,970,Patient_Detail
+train_image/200599.pdf_13.png,95,1011,1557,1764,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_24.png,45,15,1624,2336,non_Relevant
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_3.png,46,8,1628,2283,non_Relevant
+train_image/238634.pdf_3.png,88,150,643,503,Hospital_Name
+train_image/238634.pdf_3.png,99,526,1533,1132,Patient_Detail
+train_image/238634.pdf_3.png,130,1226,1664,2249,Table
+train_image/234081.pdf_6.png,1,225,1410,1661,Table
+train_image/238727.pdf_15.png,15,12,1637,2308,non_Relevant
+train_image/238727.pdf_29.png,1,29,1630,2326,non_Relevant
+train_image/50443.pdf_18.png,42,8,1617,2308,non_Relevant
+train_image/62142.pdf_12.png,25,27,1628,2330,non_Relevant
+train_image/239810.pdf_5.png,14,4,1642,2338,non_Relevant
+train_image/238622.pdf_17.png,21,24,1601,2338,non_Relevant
+train_image/50443.pdf_24.png,14,17,1617,2311,non_Relevant
+train_image/238727.pdf_9.png,62,41,1623,330,Table
+train_image/50464.pdf_6.png,53,235,1584,560,Patient_Detail
+train_image/50464.pdf_6.png,75,560,1640,2219,Table
+train_image/50443.pdf_30.png,11,17,1633,2317,non_Relevant
+train_image/50464.pdf_4.png,81,247,1587,569,Patient_Detail
+train_image/50464.pdf_4.png,71,558,1646,2210,Table
+train_image/50443.pdf_26.png,24,11,1636,2323,non_Relevant
+train_image/56047.pdf_2.png,87,257,1600,551,Patient_Detail
+train_image/56047.pdf_2.png,87,547,1640,2263,Table
+train_image/50443.pdf_32.png,17,17,1642,2330,non_Relevant
+train_image/62142.pdf_10.png,18,30,1634,2320,non_Relevant
+train_image/238622.pdf_15.png,10,8,1653,2333,non_Relevant
+train_image/239810.pdf_7.png,11,11,1632,2315,non_Relevant
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_10.png,7,5,1646,2248,non_Relevant
+train_image/238727.pdf_17.png,15,12,1633,2323,non_Relevant
+train_image/234081.pdf_4.png,1,252,1396,777,Patient_Detail
+train_image/234081.pdf_4.png,18,862,1431,1604,Table
+train_image/238675 - GLENEAGLES KL.pdf_21.png,956,107,1602,322,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_21.png,95,425,1560,968,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_21.png,70,986,1606,1790,Table
+train_image/238634.pdf_1.png,172,155,690,503,Hospital_Name
+train_image/238634.pdf_1.png,165,529,1590,1238,Patient_Detail
+train_image/238634.pdf_1.png,178,1305,1580,2195,Table
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_1.png,296,116,1278,276,Hospital_Name
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_1.png,45,402,1299,844,Patient_Detail
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_1.png,16,861,1452,1926,Table
+train_image/54125.pdf_3.png,152,387,1620,759,Patient_Detail
+train_image/54125.pdf_3.png,142,762,1602,2159,Table
+train_image/200599.pdf_11.png,976,123,1548,317,Hospital_Name
+train_image/200599.pdf_11.png,76,452,1466,977,Patient_Detail
+train_image/200599.pdf_11.png,76,998,1538,1767,Table
+train_image/56091.pdf_6.png,15,16,1640,2313,non_Relevant
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_5.png,226,127,1134,231,Hospital_Name
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_5.png,7,240,1280,1323,Table
+train_image/54167.pdf_1.png,603,113,1421,244,Hospital_Name
+train_image/54167.pdf_1.png,96,279,1618,544,Patient_Detail
+train_image/54167.pdf_1.png,93,544,1637,1094,Table
+train_image/239834.pdf_9.png,37,48,1565,2319,non_Relevant
+train_image/234089.pdf_8.png,91,425,1531,882,Patient_Detail
+train_image/234089.pdf_8.png,98,900,1531,2150,Table
+train_image/56024.pdf_1.png,600,110,1371,254,Hospital_Name
+train_image/56024.pdf_1.png,96,276,1590,541,Patient_Detail
+train_image/56024.pdf_1.png,93,544,1643,1085,Table
+train_image/238626 - LAM WAH EE.pdf_11.png,13,13,1677,2173,non_Relevant
+train_image/45924.pdf_4.png,920,34,1602,249,Hospital_Name
+train_image/45924.pdf_4.png,130,318,1555,565,Patient_Detail
+train_image/45924.pdf_4.png,127,565,1595,1031,Table
+train_image/238620.pdf_1.png,69,348,1626,890,Patient_Detail
+train_image/238620.pdf_1.png,5,916,1619,1919,Table
+train_image/71454.pdf_6.png,12,15,1637,2334,non_Relevant
+train_image/239086.pdf_7.png,131,76,692,398,Hospital_Name
+train_image/239086.pdf_7.png,124,448,1556,1083,Patient_Detail
+train_image/239086.pdf_7.png,120,1091,1642,1673,Table
+train_image/238681.pdf_6.png,71,876,1582,2262,Table
+train_image/238681.pdf_6.png,68,416,1607,851,Patient_Detail
+train_image/238681.pdf_6.png,393,73,1236,301,Hospital_Name
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_22.png,17,3,1653,2239,Table
+train_image/239785.pdf_3.png,8,4,1633,2322,non_Relevant
+train_image/234081.pdf_15.png,37,38,1648,2331,non_Relevant
+train_image/239834.pdf_11.png,23,19,1565,2298,non_Relevant
+train_image/54113.pdf_11.png,68,257,1578,554,Patient_Detail
+train_image/54113.pdf_11.png,78,554,1631,2288,Table
+train_image/62035.pdf_3.png,78,266,1590,547,Patient_Detail
+train_image/62035.pdf_3.png,75,554,1625,2247,Table
+train_image/54113.pdf_39.png,6,13,1637,2322,non_Relevant
+train_image/239038.pdf_4.png,19,6,1696,2295,non_Relevant
+train_image/238596.pdf_42.png,65,137,1636,2340,non_Relevant
+train_image/234055.pdf_28.png,235,126,1596,2226,non_Relevant
+train_image/239086.pdf_11.png,17,30,1617,2294,non_Relevant
+train_image/239038.pdf_16.png,70,56,642,392,Hospital_Name
+train_image/239038.pdf_16.png,82,431,1661,1100,Patient_Detail
+train_image/239038.pdf_16.png,30,1198,1628,2050,Table
+train_image/239038.pdf_17.png,8,6,1696,317,Table
+train_image/239086.pdf_10.png,24,16,1649,2305,non_Relevant
+train_image/45926.pdf_10.png,9,10,1656,2331,non_Relevant
+train_image/239038.pdf_5.png,19,24,1690,2306,non_Relevant
+train_image/54113.pdf_38.png,15,16,1634,2332,non_Relevant
+train_image/62035.pdf_2.png,87,232,1590,544,Patient_Detail
+train_image/62035.pdf_2.png,81,557,1637,2251,Table
+train_image/54113.pdf_10.png,96,263,1587,554,Patient_Detail
+train_image/54113.pdf_10.png,100,563,1640,2282,Table
+train_image/239834.pdf_10.png,33,12,1640,2340,non_Relevant
+train_image/238747.pdf_1.png,105,1251,1612,2158,Table
+train_image/238747.pdf_1.png,76,523,1619,1237,Patient_Detail
+train_image/238747.pdf_1.png,90,155,701,505,Hospital_Name
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_23.png,38,53,1664,2234,Table
+train_image/50443.pdf_3.png,39,92,1620,592,Patient_Detail
+train_image/50443.pdf_3.png,1,636,1628,2002,Table
+train_image/234081.pdf_14.png,95,120,1528,2323,non_Relevant
+train_image/239785.pdf_2.png,19,25,1644,2282,non_Relevant
+train_image/238681.pdf_7.png,378,83,1207,298,Hospital_Name
+train_image/238681.pdf_7.png,75,448,1589,880,Patient_Detail
+train_image/238681.pdf_7.png,64,894,1578,2255,Table
+train_image/239086.pdf_6.png,95,73,695,398,Hospital_Name
+train_image/239086.pdf_6.png,49,437,1513,1094,Patient_Detail
+train_image/239086.pdf_6.png,42,1083,1649,1973,Table
+train_image/45924.pdf_5.png,17,18,1636,2328,non_Relevant
+train_image/71454.pdf_7.png,9,24,1625,2321,non_Relevant
+train_image/238626 - LAM WAH EE.pdf_10.png,30,9,1677,2176,non_Relevant
+train_image/234089.pdf_9.png,98,447,1506,890,Patient_Detail
+train_image/239834.pdf_8.png,40,44,1590,2291,non_Relevant
+train_image/56091.pdf_7.png,18,32,1653,2329,non_Relevant
+train_image/200599.pdf_10.png,951,133,1523,314,Hospital_Name
+train_image/200599.pdf_10.png,73,436,1479,977,Patient_Detail
+train_image/200599.pdf_10.png,63,998,1541,1767,Table
+train_image/54125.pdf_2.png,95,271,1605,778,Table
+train_image/234081.pdf_5.png,1,173,1446,1638,Table
+train_image/238675 - GLENEAGLES KL.pdf_20.png,967,125,1610,322,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_20.png,60,415,1581,965,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_20.png,92,989,1621,1753,Table
+train_image/238727.pdf_16.png,8,12,1633,2316,non_Relevant
+train_image/238622.pdf_14.png,10,2,1642,2338,non_Relevant
+train_image/239810.pdf_6.png,25,25,1619,2338,non_Relevant
+train_image/62142.pdf_11.png,18,14,1634,2323,non_Relevant
+train_image/50443.pdf_33.png,14,17,1627,2330,non_Relevant
+train_image/50464.pdf_5.png,100,260,1581,560,Patient_Detail
+train_image/50464.pdf_5.png,100,566,1643,2232,Table
+train_image/56047.pdf_3.png,84,251,1587,560,Patient_Detail
+train_image/56047.pdf_3.png,96,554,1621,2226,Table
+train_image/50443.pdf_27.png,17,14,1624,2323,non_Relevant
+train_image/62142.pdf_15.png,12,23,1621,2323,non_Relevant
+train_image/239810.pdf_2.png,7,36,1622,2338,non_Relevant
+train_image/238622.pdf_10.png,23,1,1653,2290,non_Relevant
+train_image/50443.pdf_23.png,430,86,1177,336,Patient_Detail
+train_image/50443.pdf_23.png,5,355,1636,1370,Table
+train_image/56047.pdf_7.png,90,260,1593,547,Patient_Detail
+train_image/56047.pdf_7.png,90,547,1628,2263,Table
+train_image/50464.pdf_1.png,584,116,1334,263,Hospital_Name
+train_image/50464.pdf_1.png,84,276,1606,557,Patient_Detail
+train_image/50464.pdf_1.png,84,569,1625,1194,Table
+train_image/50443.pdf_37.png,14,17,1639,2323,non_Relevant
+train_image/238727.pdf_12.png,15,30,1619,2298,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_18.png,974,132,1595,343,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_18.png,99,436,1570,975,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_18.png,95,982,1610,1797,Table
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_4.png,39,1,1653,2305,non_Relevant
+train_image/238634.pdf_4.png,47,35,1664,2251,Table
+train_image/234081.pdf_1.png,80,29,1605,1689,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_8.png,14,30,1643,2266,non_Relevant
+train_image/199672.pdf_11.png,15,16,1625,2316,non_Relevant
+train_image/56091.pdf_3.png,87,257,1621,551,Patient_Detail
+train_image/56091.pdf_3.png,87,557,1628,2229,Table
+train_image/200599.pdf_28.png,16,11,1632,2323,non_Relevant
+train_image/54125.pdf_6.png,36,34,1608,2331,non_Relevant
+train_image/200599.pdf_14.png,970,127,1523,305,Hospital_Name
+train_image/200599.pdf_14.png,66,448,1379,986,Patient_Detail
+train_image/200599.pdf_14.png,70,1005,1541,1798,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_23.png,126,17,1655,2320,non_Relevant
+train_image/56024.pdf_4.png,90,266,1596,554,Patient_Detail
+train_image/56024.pdf_4.png,90,557,1615,1519,Table
+train_image/54167.pdf_4.png,96,272,1596,554,Patient_Detail
+train_image/54167.pdf_4.png,96,557,1634,807,Table
+train_image/239086.pdf_2.png,53,41,1588,1548,Table
+train_image/238681.pdf_3.png,46,26,1653,2316,non_Relevant
+train_image/62143.pdf_8.png,72,263,1591,563,Patient_Detail
+train_image/62143.pdf_8.png,69,566,1635,2241,Table
+train_image/238626 - LAM WAH EE.pdf_9.png,27,39,1637,2159,non_Relevant
+train_image/238620.pdf_4.png,73,401,1640,844,Patient_Detail
+train_image/238620.pdf_4.png,37,873,1654,2330,Table
+train_image/71454.pdf_3.png,131,481,1537,1137,Patient_Detail
+train_image/71454.pdf_3.png,112,1184,1559,1615,Table
+train_image/45924.pdf_1.png,792,84,1511,296,Hospital_Name
+train_image/45924.pdf_1.png,158,381,1474,681,Patient_Detail
+train_image/45924.pdf_1.png,139,681,1530,1778,Table
+train_image/239038.pdf_1.png,1,21,1696,2278,non_Relevant
+train_image/54113.pdf_28.png,12,19,1640,2329,non_Relevant
+train_image/234081.pdf_10.png,17,182,1517,1662,Table
+train_image/239785.pdf_6.png,465,93,1101,314,Hospital_Name
+train_image/239785.pdf_6.png,54,418,1565,1045,Patient_Detail
+train_image/239785.pdf_6.png,71,1066,1623,2184,Table
+train_image/50443.pdf_7.png,14,23,1639,2333,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_27.png,81,431,1578,1049,Patient_Detail
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_27.png,78,71,699,378,Hospital_Name
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_27.png,81,1053,1664,2064,Table
+train_image/238747.pdf_5.png,83,69,1604,917,Table
+train_image/239834.pdf_14.png,23,8,1608,2319,non_Relevant
+train_image/62035.pdf_6.png,15,10,1637,2337,non_Relevant
+train_image/54113.pdf_14.png,90,251,1625,554,Patient_Detail
+train_image/54113.pdf_14.png,90,554,1640,2291,Table
+train_image/239086.pdf_14.png,28,16,1663,2285,non_Relevant
+train_image/239038.pdf_13.png,42,21,1663,2235,Table
+train_image/238596.pdf_47.png,15,1,1654,2283,non_Relevant
+train_image/238596.pdf_46.png,51,16,1619,2308,non_Relevant
+train_image/239038.pdf_12.png,35,39,1656,2196,Table
+train_image/238747.pdf_4.png,26,33,1654,2096,Table
+train_image/54113.pdf_15.png,84,260,1618,547,Patient_Detail
+train_image/54113.pdf_15.png,81,554,1643,2288,Table
+train_image/62035.pdf_7.png,12,19,1631,2313,non_Relevant
+train_image/239834.pdf_15.png,33,16,1633,2316,non_Relevant
+train_image/239785.pdf_7.png,455,50,1119,311,Hospital_Name
+train_image/239785.pdf_7.png,40,418,1615,2257,Table
+train_image/234081.pdf_11.png,8,217,1419,1745,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_26.png,88,78,667,378,Hospital_Name
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_26.png,86,438,1591,1052,Patient_Detail
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_26.png,83,1046,1664,1756,Table
+train_image/50443.pdf_6.png,14,17,1630,2330,non_Relevant
+train_image/54113.pdf_29.png,12,13,1640,2326,non_Relevant
+train_image/71454.pdf_2.png,953,159,1590,328,Hospital_Name
+train_image/71454.pdf_2.png,103,403,1490,924,Patient_Detail
+train_image/71454.pdf_2.png,100,946,1534,1503,Table
+train_image/238620.pdf_5.png,73,408,1608,841,Patient_Detail
+train_image/238620.pdf_5.png,44,862,1623,2298,Table
+train_image/238626 - LAM WAH EE.pdf_8.png,23,13,1700,2165,non_Relevant
+train_image/238681.pdf_2.png,11,12,1589,2233,non_Relevant
+train_image/239086.pdf_3.png,74,131,628,492,Hospital_Name
+train_image/239086.pdf_3.png,84,521,1505,1192,Patient_Detail
+train_image/239086.pdf_3.png,99,1196,1609,2210,Table
+train_image/62143.pdf_9.png,640,213,1656,429,Table
+train_image/54167.pdf_5.png,6,10,1656,2334,non_Relevant
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_1.png,40,377,1435,773,Patient_Detail
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_1.png,19,796,1496,1569,Table
+train_image/56024.pdf_5.png,12,13,1650,2326,non_Relevant
+train_image/200599.pdf_15.png,979,127,1541,302,Hospital_Name
+train_image/200599.pdf_15.png,82,436,1488,995,Patient_Detail
+train_image/200599.pdf_15.png,76,1008,1535,1795,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_22.png,88,31,1625,2365,non_Relevant
+train_image/54125.pdf_7.png,33,24,1624,2324,non_Relevant
+train_image/56091.pdf_2.png,78,247,1571,554,Patient_Detail
+train_image/56091.pdf_2.png,78,563,1625,2235,Table
+train_image/199672.pdf_10.png,15,13,1625,2335,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_9.png,21,55,1621,2255,non_Relevant
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_5.png,3,16,1625,2319,non_Relevant
+train_image/238634.pdf_5.png,113,73,1635,1276,Table
+train_image/238727.pdf_13.png,23,8,1654,2301,non_Relevant
+train_image/50443.pdf_36.png,8,11,1639,2333,non_Relevant
+train_image/239846.pdf_1.png,71,329,1533,748,Patient_Detail
+train_image/239846.pdf_1.png,31,750,1636,1908,Table
+train_image/56047.pdf_6.png,96,254,1587,544,Patient_Detail
+train_image/56047.pdf_6.png,106,547,1615,2235,Table
+train_image/50443.pdf_22.png,458,55,1202,345,Hospital_Name
+train_image/50443.pdf_22.png,30,367,1654,2113,Table
+train_image/239810.pdf_3.png,29,29,1622,2286,non_Relevant
+train_image/238622.pdf_11.png,5,4,1653,2330,non_Relevant
+train_image/62142.pdf_14.png,15,27,1631,2317,non_Relevant
+train_image/238622.pdf_13.png,10,2,1640,2338,non_Relevant
+train_image/239810.pdf_1.png,1122,86,1629,272,Hospital_Name
+train_image/239810.pdf_1.png,114,457,1593,957,Patient_Detail
+train_image/239810.pdf_1.png,104,947,1600,1875,Table
+train_image/62142.pdf_16.png,21,23,1640,2323,non_Relevant
+train_image/50443.pdf_34.png,17,17,1630,2314,non_Relevant
+train_image/50464.pdf_2.png,81,266,1606,557,Patient_Detail
+train_image/50464.pdf_2.png,84,566,1631,2257,Table
+train_image/50443.pdf_20.png,14,27,1642,2327,non_Relevant
+train_image/56047.pdf_4.png,96,247,1609,538,Patient_Detail
+train_image/56047.pdf_4.png,90,544,1615,2226,Table
+train_image/238727.pdf_11.png,5,23,1623,2316,non_Relevant
+train_image/238634.pdf_7.png,188,33,1656,330,Table
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_7.png,18,251,1536,1426,Table
+train_image/234081.pdf_2.png,1,213,1518,768,Patient_Detail
+train_image/234081.pdf_2.png,12,798,1462,1505,Table
+train_image/56021.pdf_8.png,12,19,1646,2329,non_Relevant
+train_image/200599.pdf_17.png,979,133,1532,317,Hospital_Name
+train_image/200599.pdf_17.png,79,436,1432,977,Patient_Detail
+train_image/200599.pdf_17.png,79,1005,1535,1823,Table
+train_image/54125.pdf_5.png,120,415,1605,1787,Table
+train_image/50466.pdf_10.png,22,26,1670,2293,non_Relevant
+train_image/54167.pdf_7.png,9,10,1650,2335,non_Relevant
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_3.png,222,125,1185,270,Hospital_Name
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_3.png,12,313,1550,783,Patient_Detail
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_3.png,25,905,1315,1470,Table
+train_image/51427.pdf_19.png,21,19,1600,2316,non_Relevant
+train_image/239086.pdf_1.png,149,146,705,508,Hospital_Name
+train_image/239086.pdf_1.png,159,515,1593,1275,Patient_Detail
+train_image/239086.pdf_1.png,174,1279,1561,2196,Table
+train_image/45924.pdf_2.png,930,37,1589,259,Hospital_Name
+train_image/45924.pdf_2.png,130,331,1539,571,Patient_Detail
+train_image/45924.pdf_2.png,130,574,1589,2174,Table
+train_image/238620.pdf_7.png,80,391,1619,837,Patient_Detail
+train_image/238620.pdf_7.png,58,851,1640,2251,Table
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_10.png,18,8,1543,2294,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_18.png,20,131,611,481,Hospital_Name
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_18.png,30,502,1561,1150,Patient_Detail
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_18.png,17,1146,1622,2246,Table
+train_image/239038.pdf_2.png,26,28,1683,2278,non_Relevant
+train_image/239834.pdf_17.png,1,1,1626,2326,non_Relevant
+train_image/62035.pdf_5.png,93,263,1596,544,Patient_Detail
+train_image/62035.pdf_5.png,93,566,1640,1594,Table
+train_image/54113.pdf_17.png,9,10,1629,2337,non_Relevant
+train_image/238747.pdf_6.png,83,66,673,398,Hospital_Name
+train_image/238747.pdf_6.png,40,433,1573,1083,Patient_Detail
+train_image/238747.pdf_6.png,26,1083,1640,1926,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_30.png,34,31,1638,467,Table
+train_image/50443.pdf_4.png,24,55,1608,570,Patient_Detail
+train_image/50443.pdf_4.png,24,626,1633,1239,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_24.png,6,24,1642,2221,Table
+train_image/234081.pdf_13.png,39,86,1643,2319,non_Relevant
+train_image/239785.pdf_5.png,51,25,1551,2257,Table
+train_image/184019.pdf_18.png,130,518,1511,1168,Patient_Detail
+train_image/184019.pdf_18.png,142,1224,1549,1706,Table
+train_image/239038.pdf_10.png,28,121,605,481,Hospital_Name
+train_image/239038.pdf_10.png,11,483,1613,1187,Patient_Detail
+train_image/239038.pdf_10.png,34,1190,1664,2221,Table
+train_image/238596.pdf_44.png,51,76,1654,2306,non_Relevant
+train_image/238596.pdf_45.png,33,48,1651,2330,non_Relevant
+train_image/239038.pdf_11.png,10,39,1663,2210,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_25.png,3,156,1664,1411,Table
+train_image/50443.pdf_5.png,20,17,1627,2323,non_Relevant
+train_image/239785.pdf_4.png,5,32,1569,2329,Table
+train_image/234081.pdf_12.png,1,202,1304,534,Table
+train_image/54113.pdf_16.png,78,244,1584,551,Patient_Detail
+train_image/54113.pdf_16.png,81,554,1628,1004,Table
+train_image/62035.pdf_4.png,84,241,1568,551,Patient_Detail
+train_image/62035.pdf_4.png,78,560,1634,2235,Table
+train_image/239834.pdf_16.png,8,37,1654,2335,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_31.png,63,53,695,389,Hospital_Name
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_31.png,92,435,1510,1039,Patient_Detail
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_31.png,74,1039,1664,1692,Table
+train_image/238747.pdf_7.png,26,16,1651,2298,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_19.png,60,128,1638,2235,Table
+train_image/239038.pdf_3.png,33,17,1611,2281,non_Relevant
+train_image/45924.pdf_3.png,927,34,1586,243,Hospital_Name
+train_image/45924.pdf_3.png,127,321,1561,568,Patient_Detail
+train_image/45924.pdf_3.png,120,568,1605,2231,Table
+train_image/71454.pdf_1.png,975,153,1606,324,Hospital_Name
+train_image/71454.pdf_1.png,109,415,1521,903,Patient_Detail
+train_image/71454.pdf_1.png,106,931,1537,1874,Table
+train_image/238620.pdf_6.png,69,408,1605,833,Patient_Detail
+train_image/238620.pdf_6.png,76,869,1623,2241,Table
+train_image/238681.pdf_1.png,414,79,1241,279,Hospital_Name
+train_image/238681.pdf_1.png,70,406,1580,898,Patient_Detail
+train_image/238681.pdf_1.png,70,906,1572,1802,Table
+train_image/51427.pdf_18.png,18,19,1634,2301,non_Relevant
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_2.png,9,247,1465,366,Table
+train_image/54167.pdf_6.png,9,13,1640,2322,non_Relevant
+train_image/56024.pdf_6.png,6,10,1640,2329,non_Relevant
+train_image/54125.pdf_4.png,133,431,1605,2087,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_21.png,65,12,1615,2234,non_Relevant
+train_image/200599.pdf_16.png,82,464,1545,995,Patient_Detail
+train_image/200599.pdf_16.png,91,1017,1538,1764,Table
+train_image/56091.pdf_1.png,606,113,1353,247,Hospital_Name
+train_image/56091.pdf_1.png,87,272,1587,544,Patient_Detail
+train_image/56091.pdf_1.png,87,557,1637,1126,Table
+train_image/56021.pdf_9.png,15,16,1634,2313,non_Relevant
+train_image/234081.pdf_3.png,54,130,1480,641,Patient_Detail
+train_image/234081.pdf_3.png,1,655,1684,1352,Table
+train_image/238634.pdf_6.png,174,98,807,394,Hospital_Name
+train_image/238634.pdf_6.png,147,448,1570,1027,Patient_Detail
+train_image/238634.pdf_6.png,124,1113,1605,2171,Table
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_6.png,14,383,1255,819,Patient_Detail
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_6.png,16,906,1480,1448,Table
+train_image/238727.pdf_10.png,26,1,1637,2312,non_Relevant
+train_image/50464.pdf_3.png,78,266,1596,554,Patient_Detail
+train_image/50464.pdf_3.png,84,566,1653,2232,Table
+train_image/56047.pdf_5.png,112,260,1584,544,Patient_Detail
+train_image/56047.pdf_5.png,109,547,1637,2219,Table
+train_image/50443.pdf_21.png,458,105,1220,383,Patient_Detail
+train_image/50443.pdf_21.png,20,405,1654,2093,Table
+train_image/50443.pdf_35.png,11,14,1648,2339,non_Relevant
+train_image/239846.pdf_2.png,65,395,1536,750,Patient_Detail
+train_image/239846.pdf_2.png,36,755,1654,2089,Table
+train_image/62142.pdf_17.png,12,17,1634,2323,non_Relevant
+train_image/238622.pdf_12.png,23,7,1637,2336,non_Relevant
+train_image/239841.pdf_1.png,548,201,1605,376,Hospital_Name
+train_image/239841.pdf_1.png,90,430,1469,937,Patient_Detail
+train_image/239841.pdf_1.png,58,944,1648,1716,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_5.png,228,116,1217,248,Hospital_Name
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_5.png,64,358,1514,930,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_5.png,60,955,1599,1791,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_23.png,27,134,1327,1071,Table
+train_image/239810.pdf_11.png,111,436,1579,904,Patient_Detail
+train_image/239810.pdf_11.png,93,879,1579,2322,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_3.png,8,10,1658,2336,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_7.png,23,1683,1654,2010,Table
+train_image/238596.pdf_9.png,159,81,707,388,Hospital_Name
+train_image/238596.pdf_9.png,155,440,1534,1019,Patient_Detail
+train_image/238596.pdf_9.png,120,1088,1597,1810,Table
+train_image/238634.pdf_10.png,38,26,1664,2211,non_Relevant
+train_image/198830.pdf_20.png,856,144,1556,304,Hospital_Name
+train_image/198830.pdf_20.png,87,457,1487,994,Patient_Detail
+train_image/198830.pdf_20.png,81,1013,1590,1869,Table
+train_image/50486.pdf_2.png,93,229,1615,557,Patient_Detail
+train_image/50486.pdf_2.png,65,544,1640,2288,Table
+train_image/238976.pdf_2.png,326,73,1348,255,Hospital_Name
+train_image/238976.pdf_2.png,26,262,1654,802,Patient_Detail
+train_image/238976.pdf_2.png,52,804,1628,2273,Table
+train_image/54144.pdf_13.png,15,32,1643,2326,non_Relevant
+train_image/50460.pdf_8.png,28,16,1637,2322,non_Relevant
+train_image/62143.pdf_20.png,10,26,1626,2329,non_Relevant
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_7.png,15,7,1608,2318,non_Relevant
+train_image/198830.pdf_7.png,865,160,1556,304,Hospital_Name
+train_image/198830.pdf_7.png,112,447,1478,982,Patient_Detail
+train_image/198830.pdf_7.png,106,1004,1547,1797,Table
+train_image/56010.pdf_3.png,68,272,1603,532,Patient_Detail
+train_image/56010.pdf_3.png,65,554,1618,1976,Table
+train_image/184019.pdf_9.png,17,18,1636,2321,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_1.png,5,9,1654,2368,non_Relevant
+train_image/62158.pdf_5.png,701,238,1641,447,Table
+train_image/238939.pdf_3.png,69,98,633,494,Hospital_Name
+train_image/238939.pdf_3.png,73,508,1640,1194,Patient_Detail
+train_image/238939.pdf_3.png,98,1201,1626,2237,Table
+train_image/56047.pdf_11.png,12,19,1634,2310,non_Relevant
+train_image/238596.pdf_22.png,32,48,1603,2312,non_Relevant
+train_image/200593.pdf_15.png,13,14,1632,2336,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_22.png,42,8,1639,2326,non_Relevant
+train_image/238596.pdf_36.png,60,48,1614,2301,non_Relevant
+train_image/238620.pdf_17.png,23,16,1654,2317,non_Relevant
+train_image/62183.pdf_2.png,91,266,1613,560,Patient_Detail
+train_image/62183.pdf_2.png,91,557,1635,2266,Table
+train_image/51427.pdf_2.png,59,254,1587,563,Patient_Detail
+train_image/51427.pdf_2.png,75,560,1631,2285,Table
+train_image/238675 - GLENEAGLES KL.pdf_6.png,6,22,1635,2315,non_Relevant
+train_image/51427.pdf_3.png,81,254,1596,563,Patient_Detail
+train_image/51427.pdf_3.png,96,566,1634,2241,Table
+train_image/62183.pdf_3.png,110,247,1619,544,Patient_Detail
+train_image/62183.pdf_3.png,97,551,1629,2285,Table
+train_image/238675 - GLENEAGLES KL.pdf_7.png,27,11,1642,2329,non_Relevant
+train_image/238620.pdf_16.png,44,12,1654,2283,non_Relevant
+train_image/200593.pdf_14.png,13,11,1632,2330,non_Relevant
+train_image/238596.pdf_37.png,60,108,1624,2301,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_23.png,17,48,1654,2317,non_Relevant
+train_image/238596.pdf_23.png,28,12,1654,2321,non_Relevant
+train_image/56047.pdf_10.png,6,13,1646,2332,non_Relevant
+train_image/62158.pdf_4.png,97,241,1591,547,Patient_Detail
+train_image/62158.pdf_4.png,97,554,1635,2276,Table
+train_image/238939.pdf_2.png,90,101,1598,1201,Table
+train_image/184019.pdf_8.png,14,12,1630,2324,non_Relevant
+train_image/238747.pdf_14.png,12,5,1654,2332,non_Relevant
+train_image/56010.pdf_2.png,59,263,1600,541,Patient_Detail
+train_image/56010.pdf_2.png,65,544,1609,2222,Table
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_6.png,1,14,1683,2267,non_Relevant
+train_image/198830.pdf_6.png,875,151,1556,301,Hospital_Name
+train_image/198830.pdf_6.png,93,441,1475,988,Patient_Detail
+train_image/198830.pdf_6.png,90,1007,1556,1804,Table
+train_image/50460.pdf_9.png,12,22,1634,2319,non_Relevant
+train_image/54144.pdf_12.png,12,13,1640,2326,non_Relevant
+train_image/198830.pdf_21.png,856,144,1559,307,Hospital_Name
+train_image/198830.pdf_21.png,78,444,1512,979,Patient_Detail
+train_image/198830.pdf_21.png,68,1010,1550,1638,Table
+train_image/238976.pdf_3.png,258,66,1369,258,Hospital_Name
+train_image/238976.pdf_3.png,37,326,1476,758,Patient_Detail
+train_image/238976.pdf_3.png,37,823,1623,2255,Table
+train_image/50486.pdf_3.png,106,232,1621,563,Patient_Detail
+train_image/50486.pdf_3.png,71,544,1637,2285,Table
+train_image/238634.pdf_11.png,24,19,1663,2286,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_6.png,55,269,1573,880,Patient_Detail
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_6.png,1,908,1648,2173,Table
+train_image/238596.pdf_8.png,162,90,717,396,Hospital_Name
+train_image/238596.pdf_8.png,130,440,1472,1019,Patient_Detail
+train_image/238596.pdf_8.png,117,1087,1642,2058,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_2.png,8,3,1696,2331,non_Relevant
+train_image/239810.pdf_10.png,114,404,1585,894,Patient_Detail
+train_image/239810.pdf_10.png,104,890,1555,2338,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_22.png,43,134,1381,1218,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_4.png,224,123,1199,273,Hospital_Name
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_4.png,78,387,1553,930,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_4.png,67,1090,1612,1780,Table
+train_image/71454.pdf_26.png,967,121,1574,284,Hospital_Name
+train_image/71454.pdf_26.png,96,424,1552,965,Patient_Detail
+train_image/71454.pdf_26.png,89,984,1574,1218,Table
+train_image/71454.pdf_18.png,958,131,1583,306,Hospital_Name
+train_image/71454.pdf_18.png,80,443,1527,993,Patient_Detail
+train_image/71454.pdf_18.png,83,1006,1558,1834,Table
+train_image/45913.pdf_10.png,9,16,1646,2329,non_Relevant
+train_image/71454.pdf_24.png,964,124,1589,306,Hospital_Name
+train_image/71454.pdf_24.png,92,431,1539,962,Patient_Detail
+train_image/71454.pdf_24.png,96,981,1571,1799,Table
+train_image/239841.pdf_2.png,404,49,1094,207,Patient_Detail
+train_image/239841.pdf_2.png,83,201,1515,2312,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_20.png,52,143,1230,1224,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_6.png,74,966,1628,1783,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_6.png,49,380,1599,930,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_6.png,224,116,1232,241,Hospital_Name
+train_image/239810.pdf_12.png,114,425,1652,919,Patient_Detail
+train_image/239810.pdf_12.png,82,875,1604,1600,Table
+train_image/54144.pdf_8.png,9,7,1643,2322,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_4.png,51,283,1583,898,Patient_Detail
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_4.png,19,919,1598,2216,Table
+train_image/238634.pdf_13.png,13,12,1653,2298,non_Relevant
+train_image/50486.pdf_1.png,606,119,1346,247,Hospital_Name
+train_image/50486.pdf_1.png,81,272,1606,554,Patient_Detail
+train_image/50486.pdf_1.png,78,547,1618,1210,Table
+train_image/238976.pdf_1.png,333,123,1333,270,Hospital_Name
+train_image/238976.pdf_1.png,46,360,1528,820,Patient_Detail
+train_image/238976.pdf_1.png,36,828,1654,1663,Table
+train_image/198830.pdf_23.png,18,22,1640,2329,non_Relevant
+train_image/238622.pdf_9.png,1,4,1653,2309,non_Relevant
+train_image/54144.pdf_10.png,15,16,1637,2322,non_Relevant
+train_image/198830.pdf_4.png,859,144,1553,291,Hospital_Name
+train_image/198830.pdf_4.png,93,454,1528,972,Patient_Detail
+train_image/198830.pdf_4.png,87,994,1550,1826,Table
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_4.png,100,233,1618,547,Patient_Detail
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_4.png,81,557,1656,2267,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_2.png,8,206,1641,762,Patient_Detail
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_2.png,8,799,1664,1574,Table
+train_image/62158.pdf_6.png,16,16,1641,2310,non_Relevant
+train_image/56047.pdf_12.png,12,19,1646,2326,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_21.png,1,43,1646,2337,non_Relevant
+train_image/238596.pdf_35.png,53,91,1654,2315,non_Relevant
+train_image/200593.pdf_16.png,7,20,1632,2330,non_Relevant
+train_image/238617.pdf_8.png,62,30,1608,2266,non_Relevant
+train_image/238596.pdf_21.png,42,19,1646,2301,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_5.png,27,36,1642,2311,non_Relevant
+train_image/62183.pdf_1.png,588,113,1357,251,Hospital_Name
+train_image/62183.pdf_1.png,107,266,1601,547,Patient_Detail
+train_image/62183.pdf_1.png,107,547,1629,1154,Table
+train_image/51427.pdf_1.png,596,104,1328,260,Hospital_Name
+train_image/51427.pdf_1.png,96,282,1575,551,Patient_Detail
+train_image/51427.pdf_1.png,87,551,1643,1188,Table
+train_image/238620.pdf_14.png,5,8,1654,2290,non_Relevant
+train_image/238620.pdf_15.png,15,8,1637,2298,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_4.png,27,15,1627,2325,non_Relevant
+train_image/238596.pdf_20.png,132,58,1654,1969,non_Relevant
+train_image/238596.pdf_34.png,35,12,1654,2223,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_20.png,1,6,1632,2319,non_Relevant
+train_image/238617.pdf_9.png,65,58,1612,2301,non_Relevant
+train_image/56047.pdf_13.png,15,10,1628,2319,non_Relevant
+train_image/238939.pdf_1.png,69,116,669,501,Hospital_Name
+train_image/238939.pdf_1.png,94,512,1619,1237,Patient_Detail
+train_image/238939.pdf_1.png,115,1244,1576,2144,Table
+train_image/62158.pdf_7.png,19,16,1629,2322,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_3.png,54,137,1499,626,Patient_Detail
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_3.png,17,670,1669,1300,Table
+train_image/56010.pdf_1.png,603,116,1350,251,Hospital_Name
+train_image/56010.pdf_1.png,81,266,1537,557,Patient_Detail
+train_image/56010.pdf_1.png,75,557,1612,1091,Table
+train_image/198830.pdf_5.png,850,147,1556,307,Hospital_Name
+train_image/198830.pdf_5.png,87,429,1512,982,Patient_Detail
+train_image/198830.pdf_5.png,87,1001,1562,1788,Table
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_5.png,11,4,1636,2311,non_Relevant
+train_image/54144.pdf_11.png,9,19,1640,2322,non_Relevant
+train_image/238622.pdf_8.png,12,4,1628,2338,non_Relevant
+train_image/198830.pdf_22.png,18,16,1622,2307,non_Relevant
+train_image/238634.pdf_12.png,6,23,1638,2298,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_1.png,36,53,1696,2303,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_5.png,19,287,1576,880,Patient_Detail
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_5.png,15,901,1608,2216,Table
+train_image/54144.pdf_9.png,3,13,1653,2335,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_7.png,214,119,1310,248,Hospital_Name
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_7.png,57,376,1621,926,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_7.png,57,962,1642,1741,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_21.png,46,146,1277,1203,Table
+train_image/239841.pdf_3.png,8,19,1540,2280,non_Relevant
+train_image/71454.pdf_25.png,977,137,1589,303,Hospital_Name
+train_image/71454.pdf_25.png,108,446,1542,968,Patient_Detail
+train_image/71454.pdf_25.png,108,990,1561,1796,Table
+train_image/71454.pdf_19.png,968,128,1590,309,Hospital_Name
+train_image/71454.pdf_19.png,108,443,1549,990,Patient_Detail
+train_image/71454.pdf_19.png,96,1003,1561,1746,Table
+train_image/71454.pdf_21.png,961,115,1590,306,Hospital_Name
+train_image/71454.pdf_21.png,99,443,1580,990,Patient_Detail
+train_image/71454.pdf_21.png,96,999,1590,1799,Table
+train_image/50443.pdf_40.png,17,14,1636,2320,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_3.png,228,116,1192,258,Hospital_Name
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_3.png,64,383,1464,933,Hospital_Name
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_3.png,72,1085,1639,1810,Table
+train_image/62142.pdf_8.png,153,58,721,383,Hospital_Name
+train_image/62142.pdf_8.png,115,402,1565,1058,Patient_Detail
+train_image/62142.pdf_8.png,109,1064,1603,1864,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_19.png,17,262,1121,628,Patient_Detail
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_19.png,21,715,1236,1215,Table
+train_image/238634.pdf_16.png,24,23,1624,2298,non_Relevant
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_10.png,11,25,1656,2328,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_1.png,2,281,1588,902,Patient_Detail
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_1.png,28,946,1646,2031,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_5.png,19,6,1679,2303,non_Relevant
+train_image/50453.pdf_8.png,29,187,1605,1484,Table
+train_image/198830.pdf_26.png,12,35,1622,2313,non_Relevant
+train_image/50486.pdf_4.png,87,235,1596,557,Patient_Detail
+train_image/50486.pdf_4.png,96,554,1643,2235,Table
+train_image/238976.pdf_4.png,15,78,1644,996,Table
+train_image/45926.pdf_9.png,9,16,1640,2329,non_Relevant
+train_image/50453.pdf_12.png,17,19,1684,2190,non_Relevant
+train_image/238747.pdf_13.png,12,12,1633,2323,non_Relevant
+train_image/56111.pdf_8.png,6,10,1643,2319,non_Relevant
+train_image/56010.pdf_5.png,9,10,1637,2310,non_Relevant
+train_image/198830.pdf_1.png,843,147,1565,310,Hospital_Name
+train_image/198830.pdf_1.png,97,391,1540,888,Patient_Detail
+train_image/198830.pdf_1.png,97,910,1531,1835,Table
+train_image/56023.pdf_3.png,87,266,1581,551,Patient_Detail
+train_image/56023.pdf_3.png,84,557,1646,2107,Table
+train_image/62158.pdf_3.png,88,238,1597,551,Patient_Detail
+train_image/62158.pdf_3.png,91,560,1638,2232,Table
+train_image/238939.pdf_5.png,33,44,1640,876,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_7.png,25,202,1506,1657,Table
+train_image/50466.pdf_9.png,12,14,1670,2284,non_Relevant
+train_image/62183.pdf_4.png,94,257,1632,557,Patient_Detail
+train_image/62183.pdf_4.png,94,569,1647,2222,Table
+train_image/51427.pdf_4.png,81,266,1600,566,Patient_Detail
+train_image/51427.pdf_4.png,84,566,1643,2254,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_18.png,1,56,1632,2330,non_Relevant
+train_image/238620.pdf_11.png,30,58,1650,2339,non_Relevant
+train_image/238596.pdf_18.png,53,33,1582,2248,non_Relevant
+train_image/200593.pdf_13.png,10,11,1632,2320,non_Relevant
+train_image/238617.pdf_11.png,9,1,1644,2337,non_Relevant
+train_image/45913.pdf_8.png,12,10,1637,2319,non_Relevant
+train_image/238596.pdf_30.png,10,37,1654,2307,non_Relevant
+train_image/238596.pdf_24.png,60,30,1654,2314,non_Relevant
+train_image/238596.pdf_25.png,32,16,1639,2319,non_Relevant
+train_image/200593.pdf_12.png,10,17,1635,2330,non_Relevant
+train_image/238596.pdf_31.png,24,26,1639,2301,non_Relevant
+train_image/45913.pdf_9.png,18,19,1634,2310,non_Relevant
+train_image/238617.pdf_10.png,19,16,1654,2338,non_Relevant
+train_image/238596.pdf_19.png,7,26,1621,2248,non_Relevant
+train_image/238620.pdf_10.png,19,1,1637,2330,non_Relevant
+train_image/51427.pdf_5.png,81,226,1581,547,Patient_Detail
+train_image/51427.pdf_5.png,81,551,1650,2272,Table
+train_image/62183.pdf_5.png,101,254,1607,554,Patient_Detail
+train_image/62183.pdf_5.png,104,557,1647,1388,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_19.png,1,45,1621,2301,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_1.png,979,119,1600,302,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_1.png,60,394,1529,913,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_1.png,81,921,1594,1840,Table
+train_image/50466.pdf_8.png,15,17,1673,2290,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_6.png,62,231,1610,1624,Table
+train_image/62158.pdf_2.png,76,244,1613,560,Patient_Detail
+train_image/62158.pdf_2.png,72,566,1626,2291,Table
+train_image/56023.pdf_2.png,96,260,1584,544,Patient_Detail
+train_image/56023.pdf_2.png,81,557,1637,2244,Table
+train_image/238939.pdf_4.png,62,37,1601,2312,Table
+train_image/56010.pdf_4.png,18,13,1641,2337,non_Relevant
+train_image/238747.pdf_12.png,26,16,1654,2289,non_Relevant
+train_image/56111.pdf_9.png,3,10,1643,2322,non_Relevant
+train_image/45926.pdf_8.png,6,16,1646,2313,non_Relevant
+train_image/198830.pdf_27.png,9,13,1637,2319,non_Relevant
+train_image/238976.pdf_5.png,23,26,1611,2339,non_Relevant
+train_image/50486.pdf_5.png,93,238,1600,554,Patient_Detail
+train_image/50486.pdf_5.png,100,544,1653,2235,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_4.png,8,17,1696,2290,non_Relevant
+train_image/50453.pdf_9.png,11,19,1679,2178,non_Relevant
+train_image/238634.pdf_17.png,42,19,1649,2312,non_Relevant
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_11.png,43,1,1640,2307,non_Relevant
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_18.png,21,12,1633,2296,non_Relevant
+train_image/62142.pdf_9.png,15,27,1625,2323,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_2.png,47,320,1499,858,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_2.png,77,890,1524,1098,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_2.png,212,123,1247,253,Hospital_Name
+train_image/50443.pdf_41.png,14,11,1654,2331,non_Relevant
+train_image/71454.pdf_20.png,971,118,1586,299,Hospital_Name
+train_image/71454.pdf_20.png,111,434,1552,984,Patient_Detail
+train_image/71454.pdf_20.png,105,999,1574,1803,Table
+train_image/71454.pdf_22.png,983,121,1583,303,Hospital_Name
+train_image/71454.pdf_22.png,93,418,1543,987,Patient_Detail
+train_image/71454.pdf_22.png,93,996,1574,1806,Table
+train_image/50443.pdf_43.png,24,14,1630,2333,non_Relevant
+train_image/238634.pdf_15.png,13,8,1613,2319,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_6.png,15,14,1686,2306,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_2.png,23,273,1620,886,Patient_Detail
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_2.png,23,912,1641,2199,Table
+train_image/198830.pdf_19.png,881,144,1565,304,Hospital_Name
+train_image/198830.pdf_19.png,81,438,1475,988,Patient_Detail
+train_image/198830.pdf_19.png,81,997,1565,1826,Table
+train_image/50486.pdf_7.png,103,238,1634,560,Patient_Detail
+train_image/50486.pdf_7.png,96,535,1634,2263,Table
+train_image/238976.pdf_7.png,37,19,1630,2333,non_Relevant
+train_image/62143.pdf_19.png,13,16,1631,2337,non_Relevant
+train_image/50453.pdf_11.png,20,13,1676,2195,non_Relevant
+train_image/238747.pdf_10.png,15,19,1633,2333,non_Relevant
+train_image/198830.pdf_2.png,859,147,1553,301,Hospital_Name
+train_image/198830.pdf_2.png,100,382,1443,891,Patient_Detail
+train_image/198830.pdf_2.png,100,907,1534,1860,Table
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_2.png,84,23,1603,2260,non_Relevant
+train_image/238939.pdf_6.png,58,41,1080,391,Hospital_Name
+train_image/238939.pdf_6.png,58,430,1558,1076,Patient_Detail
+train_image/238939.pdf_6.png,15,1083,1633,1851,Table
+train_image/199672.pdf_8.png,865,122,1562,319,Hospital_Name
+train_image/199672.pdf_8.png,106,441,1472,1001,Patient_Detail
+train_image/199672.pdf_8.png,90,1019,1550,1519,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_9.png,21,9,1642,2315,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_4.png,7,253,1359,782,Patient_Detail
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_4.png,36,849,1388,1656,Table
+train_image/200599.pdf_9.png,1001,123,1548,308,Hospital_Name
+train_image/200599.pdf_9.png,76,439,1566,970,Patient_Detail
+train_image/200599.pdf_9.png,57,995,1541,1783,Table
+train_image/54113.pdf_48.png,18,13,1615,2307,non_Relevant
+train_image/56047.pdf_14.png,6,13,1646,2335,non_Relevant
+train_image/54167.pdf_11.png,12,16,1643,2313,non_Relevant
+train_image/238620.pdf_12.png,62,69,1654,2284,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_3.png,13,11,1627,2304,non_Relevant
+train_image/62183.pdf_7.png,16,22,1635,2319,non_Relevant
+train_image/51427.pdf_7.png,15,16,1640,2322,non_Relevant
+train_image/238596.pdf_27.png,42,26,1617,2301,non_Relevant
+train_image/238617.pdf_12.png,8,1,1644,2339,non_Relevant
+train_image/238596.pdf_33.png,1,20,1472,2069,non_Relevant
+train_image/200593.pdf_10.png,20,27,1635,2327,non_Relevant
+train_image/238617.pdf_13.png,8,5,1652,2339,non_Relevant
+train_image/200593.pdf_11.png,16,14,1629,2317,non_Relevant
+train_image/238596.pdf_26.png,69,123,1647,2340,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_2.png,947,129,1608,316,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_2.png,102,392,1545,903,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_2.png,95,918,1608,1745,Table
+train_image/51427.pdf_6.png,68,263,1587,563,Patient_Detail
+train_image/51427.pdf_6.png,68,560,1615,2091,Table
+train_image/62183.pdf_6.png,10,22,1644,2329,non_Relevant
+train_image/238620.pdf_13.png,15,58,1654,2334,non_Relevant
+train_image/54167.pdf_10.png,1,4,1640,2316,non_Relevant
+train_image/56047.pdf_15.png,9,13,1643,2322,non_Relevant
+train_image/54113.pdf_49.png,18,22,1628,2319,non_Relevant
+train_image/200599.pdf_8.png,963,123,1526,308,Hospital_Name
+train_image/200599.pdf_8.png,76,439,1504,970,Patient_Detail
+train_image/200599.pdf_8.png,70,1002,1535,1767,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_8.png,24,15,1633,2274,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_5.png,38,230,1531,1604,Table
+train_image/199672.pdf_9.png,12,19,1622,2335,non_Relevant
+train_image/238939.pdf_7.png,32,14,1643,2214,non_Relevant
+train_image/62158.pdf_1.png,601,122,1335,254,Hospital_Name
+train_image/62158.pdf_1.png,76,294,1607,554,Patient_Detail
+train_image/62158.pdf_1.png,72,563,1644,1144,Table
+train_image/56023.pdf_1.png,609,129,1331,260,Hospital_Name
+train_image/56023.pdf_1.png,71,276,1634,544,Patient_Detail
+train_image/56023.pdf_1.png,71,563,1646,1091,Table
+train_image/198830.pdf_3.png,840,151,1553,294,Hospital_Name
+train_image/198830.pdf_3.png,100,379,1481,891,Patient_Detail
+train_image/198830.pdf_3.png,97,904,1497,1157,Table
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_3.png,76,250,1608,554,Patient_Detail
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_3.png,75,554,1654,2300,Table
+train_image/238747.pdf_11.png,8,8,1644,2323,non_Relevant
+train_image/50453.pdf_10.png,5,16,1680,2200,non_Relevant
+train_image/62143.pdf_18.png,13,29,1622,2313,non_Relevant
+train_image/238976.pdf_6.png,1,12,1623,2323,non_Relevant
+train_image/50486.pdf_6.png,81,235,1631,563,Patient_Detail
+train_image/50486.pdf_6.png,87,541,1640,2229,Table
+train_image/198830.pdf_24.png,18,10,1631,2326,non_Relevant
+train_image/198830.pdf_18.png,865,138,1568,301,Hospital_Name
+train_image/198830.pdf_18.png,90,447,1462,988,Patient_Detail
+train_image/198830.pdf_18.png,84,1004,1568,1797,Table
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_3.png,23,283,1515,894,Patient_Detail
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_3.png,19,916,1651,2191,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_7.png,19,17,1665,2292,non_Relevant
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_12.png,18,11,1643,2322,non_Relevant
+train_image/238634.pdf_14.png,38,19,1664,2196,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_1.png,223,120,1196,243,Hospital_Name
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_1.png,63,327,1486,857,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_1.png,83,873,1523,1820,Table
+train_image/50443.pdf_42.png,24,14,1627,2320,non_Relevant
+train_image/71454.pdf_23.png,964,115,1589,306,Hospital_Name
+train_image/71454.pdf_23.png,102,434,1561,974,Patient_Detail
+train_image/71454.pdf_23.png,96,990,1567,1790,Table
+train_image/71454.pdf_12.png,12,18,1618,2337,non_Relevant
+train_image/54144.pdf_2.png,587,107,1340,257,Hospital_Name
+train_image/54144.pdf_2.png,118,266,1593,557,Patient_Detail
+train_image/54144.pdf_2.png,112,557,1640,2294,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_16.png,5,18,1636,2296,non_Relevant
+train_image/62142.pdf_7.png,131,52,715,386,Hospital_Name
+train_image/62142.pdf_7.png,131,398,1556,1058,Patient_Detail
+train_image/62142.pdf_7.png,115,1058,1575,1823,Table
+train_image/54125.pdf_14.png,14,15,1639,2321,non_Relevant
+train_image/238634.pdf_19.png,24,1,1664,2332,non_Relevant
+train_image/50453.pdf_7.png,31,201,1623,1495,Table
+train_image/190620_165100_0107577932_197678_FB (1).pdf_7.png,17,24,1636,2328,non_Relevant
+train_image/54156.pdf_5.png,9,10,1643,2329,non_Relevant
+train_image/50460.pdf_1.png,587,82,1368,244,Hospital_Name
+train_image/50460.pdf_1.png,84,269,1600,544,Patient_Detail
+train_image/50460.pdf_1.png,84,551,1646,1107,Table
+train_image/198830.pdf_15.png,865,147,1568,316,Hospital_Name
+train_image/198830.pdf_15.png,84,444,1472,991,Patient_Detail
+train_image/198830.pdf_15.png,81,1013,1550,1819,Table
+train_image/45926.pdf_6.png,12,13,1646,2326,non_Relevant
+train_image/238622.pdf_3.png,15,4,1653,2301,non_Relevant
+train_image/56111.pdf_7.png,12,19,1643,2329,non_Relevant
+train_image/62143.pdf_15.png,10,16,1647,2329,non_Relevant
+train_image/199672.pdf_4.png,875,129,1578,316,Hospital_Name
+train_image/199672.pdf_4.png,97,469,1447,994,Patient_Detail
+train_image/199672.pdf_4.png,93,1007,1562,1835,Table
+train_image/200599.pdf_5.png,982,117,1557,302,Hospital_Name
+train_image/200599.pdf_5.png,70,445,1554,970,Patient_Detail
+train_image/200599.pdf_5.png,63,995,1570,1811,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_5.png,24,18,1611,2321,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_8.png,25,226,1455,1637,Table
+train_image/62168.pdf_2.png,85,260,1610,563,Patient_Detail
+train_image/62168.pdf_2.png,91,576,1644,2263,Table
+train_image/50430.pdf_4.png,23,316,1329,740,Patient_Detail
+train_image/50430.pdf_4.png,14,845,1423,1404,Table
+train_image/54113.pdf_44.png,15,10,1618,2322,non_Relevant
+train_image/50466.pdf_6.png,12,14,1664,2296,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_17.png,89,41,1654,2330,non_Relevant
+train_image/238596.pdf_17.png,24,26,1624,2333,non_Relevant
+train_image/238617.pdf_2.png,112,437,1569,855,Patient_Detail
+train_image/238617.pdf_2.png,99,873,1562,2249,Table
+train_image/45913.pdf_6.png,15,13,1653,2335,non_Relevant
+train_image/238617.pdf_3.png,79,426,1526,851,Patient_Detail
+train_image/238617.pdf_3.png,87,866,1551,2237,Table
+train_image/238596.pdf_16.png,17,12,1628,2312,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_16.png,28,30,1650,2340,non_Relevant
+train_image/50466.pdf_7.png,15,23,1673,2284,non_Relevant
+train_image/54113.pdf_45.png,18,19,1631,2316,non_Relevant
+train_image/62168.pdf_3.png,82,251,1632,572,Patient_Detail
+train_image/62168.pdf_3.png,69,572,1632,2285,Table
+train_image/56103.pdf_1.png,609,119,1334,251,Hospital_Name
+train_image/56103.pdf_1.png,59,307,1593,569,Patient_Detail
+train_image/56103.pdf_1.png,62,576,1628,1163,Table
+train_image/50430.pdf_5.png,61,181,1426,1404,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_4.png,21,15,1627,2318,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_9.png,23,207,1545,1630,Table
+train_image/184019.pdf_1.png,971,156,1577,324,Hospital_Name
+train_image/184019.pdf_1.png,117,396,1527,915,Patient_Detail
+train_image/184019.pdf_1.png,121,940,1536,1803,Table
+train_image/200599.pdf_4.png,1073,164,1623,352,Hospital_Name
+train_image/200599.pdf_4.png,151,423,1554,948,Patient_Detail
+train_image/200599.pdf_4.png,148,955,1551,1277,Table
+train_image/199672.pdf_5.png,868,147,1568,313,Hospital_Name
+train_image/199672.pdf_5.png,97,454,1437,988,Patient_Detail
+train_image/199672.pdf_5.png,97,1001,1556,1841,Table
+train_image/56111.pdf_6.png,6,16,1634,2335,non_Relevant
+train_image/62143.pdf_14.png,10,22,1644,2322,non_Relevant
+train_image/45926.pdf_7.png,12,19,1643,2319,non_Relevant
+train_image/238622.pdf_2.png,19,11,1630,2304,non_Relevant
+train_image/198830.pdf_28.png,15,22,1637,2329,non_Relevant
+train_image/198830.pdf_14.png,878,138,1556,294,Hospital_Name
+train_image/198830.pdf_14.png,90,444,1456,982,Patient_Detail
+train_image/198830.pdf_14.png,87,1001,1553,1816,Table
+train_image/54156.pdf_4.png,9,10,1645,2337,non_Relevant
+train_image/50453.pdf_6.png,49,199,1499,1402,Table
+train_image/190620_165100_0107577932_197678_FB (1).pdf_6.png,21,174,1427,1368,Table
+train_image/238596.pdf_1.png,157,166,692,519,Hospital_Name
+train_image/238596.pdf_1.png,162,550,1517,1235,Patient_Detail
+train_image/238596.pdf_1.png,179,1293,1647,2210,Table
+train_image/238634.pdf_18.png,20,12,1645,2319,non_Relevant
+train_image/54125.pdf_15.png,17,15,1639,2321,non_Relevant
+train_image/62142.pdf_6.png,43,33,1603,2311,non_Relevant
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_17.png,14,18,1649,2315,non_Relevant
+train_image/54144.pdf_3.png,71,247,1571,551,Patient_Detail
+train_image/54144.pdf_3.png,71,541,1612,2207,Table
+train_image/71454.pdf_13.png,21,18,1640,2315,non_Relevant
+train_image/71454.pdf_11.png,9,12,1628,2331,non_Relevant
+train_image/54144.pdf_1.png,578,104,1346,244,Hospital_Name
+train_image/54144.pdf_1.png,40,276,1612,579,Patient_Detail
+train_image/54144.pdf_1.png,37,588,1612,1207,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_15.png,33,12,1633,2274,non_Relevant
+train_image/62142.pdf_4.png,96,111,1603,2233,Table
+train_image/190620_165100_0107577932_197678_FB (1).pdf_4.png,30,281,1130,637,Patient_Detail
+train_image/190620_165100_0107577932_197678_FB (1).pdf_4.png,27,731,1258,1243,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_9.png,19,31,1633,2285,non_Relevant
+train_image/50453.pdf_4.png,20,28,1687,2198,non_Relevant
+train_image/238596.pdf_3.png,99,151,628,437,Hospital_Name
+train_image/238596.pdf_3.png,104,537,1539,1208,Patient_Detail
+train_image/238596.pdf_3.png,107,1219,1582,2330,Table
+train_image/50460.pdf_2.png,68,251,1618,551,Patient_Detail
+train_image/50460.pdf_2.png,68,547,1637,2254,Table
+train_image/198830.pdf_16.png,856,144,1553,301,Hospital_Name
+train_image/198830.pdf_16.png,75,451,1440,991,Patient_Detail
+train_image/198830.pdf_16.png,72,1010,1562,1788,Table
+train_image/45926.pdf_5.png,662,229,1628,401,Table
+train_image/50486.pdf_8.png,81,222,1618,563,Patient_Detail
+train_image/50486.pdf_8.png,96,554,1646,947,Table
+train_image/238976.pdf_8.png,33,33,1651,2330,non_Relevant
+train_image/62143.pdf_16.png,10,10,1641,2329,non_Relevant
+train_image/56111.pdf_4.png,78,251,1584,560,Patient_Detail
+train_image/56111.pdf_4.png,78,572,1634,1516,Table
+train_image/238939.pdf_9.png,30,12,1605,2319,non_Relevant
+train_image/199672.pdf_7.png,818,138,1559,307,Hospital_Name
+train_image/199672.pdf_7.png,90,463,1487,991,Patient_Detail
+train_image/199672.pdf_7.png,84,1010,1559,1879,Table
+train_image/184019.pdf_3.png,24,18,1630,2331,non_Relevant
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_6.png,14,24,1649,2331,non_Relevant
+train_image/200599.pdf_6.png,957,117,1529,317,Hospital_Name
+train_image/200599.pdf_6.png,79,445,1479,970,Patient_Detail
+train_image/200599.pdf_6.png,76,1002,1585,1777,Table
+train_image/54113.pdf_47.png,15,13,1637,2310,non_Relevant
+train_image/56103.pdf_3.png,84,257,1575,541,Patient_Detail
+train_image/56103.pdf_3.png,87,551,1634,2213,Table
+train_image/62168.pdf_1.png,591,126,1341,260,Hospital_Name
+train_image/62168.pdf_1.png,88,282,1588,554,Patient_Detail
+train_image/62168.pdf_1.png,85,566,1641,1104,Table
+train_image/50466.pdf_5.png,103,226,1594,542,Patient_Detail
+train_image/50466.pdf_5.png,109,536,1649,1411,Table
+train_image/238596.pdf_14.png,49,33,1596,2276,non_Relevant
+train_image/62183.pdf_8.png,13,22,1626,2322,non_Relevant
+train_image/51427.pdf_8.png,21,26,1634,2322,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_14.png,64,37,1654,2328,non_Relevant
+train_image/238596.pdf_28.png,17,16,1632,2333,non_Relevant
+train_image/238617.pdf_1.png,300,141,1069,264,Hospital_Name
+train_image/238617.pdf_1.png,92,394,1546,867,Patient_Detail
+train_image/238617.pdf_1.png,94,894,1569,1801,Table
+train_image/45913.pdf_4.png,15,16,1643,2322,non_Relevant
+train_image/45913.pdf_5.png,12,13,1654,2337,non_Relevant
+train_image/238620.pdf_20.png,4,2,1654,2338,non_Relevant
+train_image/238596.pdf_29.png,21,26,1610,2308,non_Relevant
+train_image/51427.pdf_9.png,25,22,1650,2332,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_15.png,53,19,1628,2316,non_Relevant
+train_image/238596.pdf_15.png,53,26,1621,2316,non_Relevant
+train_image/50466.pdf_4.png,85,229,1622,545,Patient_Detail
+train_image/50466.pdf_4.png,94,542,1658,2245,Table
+train_image/50430.pdf_6.png,31,198,1426,1440,Table
+train_image/56103.pdf_2.png,68,244,1621,535,Patient_Detail
+train_image/56103.pdf_2.png,65,547,1656,2272,Table
+train_image/54113.pdf_46.png,18,13,1628,2322,non_Relevant
+train_image/200599.pdf_7.png,982,136,1554,305,Hospital_Name
+train_image/200599.pdf_7.png,82,445,1482,967,Patient_Detail
+train_image/200599.pdf_7.png,88,1002,1545,1795,Table
+train_image/184019.pdf_2.png,971,153,1596,318,Hospital_Name
+train_image/184019.pdf_2.png,114,396,1517,915,Patient_Detail
+train_image/184019.pdf_2.png,111,937,1536,1293,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_7.png,21,34,1636,2324,non_Relevant
+train_image/199672.pdf_6.png,875,135,1572,307,Hospital_Name
+train_image/199672.pdf_6.png,93,460,1525,1001,Patient_Detail
+train_image/199672.pdf_6.png,87,1013,1578,1826,Table
+train_image/238939.pdf_8.png,23,44,1653,2273,non_Relevant
+train_image/62143.pdf_17.png,16,22,1635,2326,non_Relevant
+train_image/56111.pdf_5.png,12,7,1640,2316,non_Relevant
+train_image/50486.pdf_9.png,21,26,1631,2319,non_Relevant
+train_image/238622.pdf_1.png,33,411,1580,850,Patient_Detail
+train_image/238622.pdf_1.png,8,868,1612,1932,Table
+train_image/45926.pdf_4.png,93,376,1615,547,Hospital_Name
+train_image/45926.pdf_4.png,93,554,1640,2266,Table
+train_image/198830.pdf_17.png,843,135,1556,294,Hospital_Name
+train_image/198830.pdf_17.png,90,447,1512,985,Patient_Detail
+train_image/198830.pdf_17.png,75,1007,1565,1801,Table
+train_image/50460.pdf_3.png,87,251,1606,563,Patient_Detail
+train_image/50460.pdf_3.png,93,560,1640,2229,Table
+train_image/238596.pdf_2.png,99,162,1654,2068,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_8.png,1,6,1683,2328,non_Relevant
+train_image/190620_165100_0107577932_197678_FB (1).pdf_5.png,55,159,1277,1287,Table
+train_image/50453.pdf_5.png,26,319,1334,769,Patient_Detail
+train_image/50453.pdf_5.png,8,834,1437,1419,Table
+train_image/54125.pdf_16.png,20,18,1636,2321,non_Relevant
+train_image/62142.pdf_5.png,90,86,1593,2255,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_14.png,14,18,1642,2299,non_Relevant
+train_image/71454.pdf_10.png,9,18,1625,2328,non_Relevant
+train_image/71454.pdf_14.png,943,153,1586,315,Hospital_Name
+train_image/71454.pdf_14.png,93,437,1505,993,Patient_Detail
+train_image/71454.pdf_14.png,90,1018,1574,1878,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_10.png,17,24,1639,2324,non_Relevant
+train_image/62142.pdf_1.png,168,123,859,480,Hospital_Name
+train_image/62142.pdf_1.png,134,495,1550,1252,Patient_Detail
+train_image/62142.pdf_1.png,131,1261,1565,2211,Table
+train_image/54144.pdf_4.png,59,232,1581,560,Patient_Detail
+train_image/54144.pdf_4.png,65,563,1615,1272,Table
+train_image/50453.pdf_1.png,405,51,1576,275,Hospital_Name
+train_image/50453.pdf_1.png,61,492,1231,1028,Patient_Detail
+train_image/50453.pdf_1.png,34,1060,1237,1766,Table
+train_image/190620_165100_0107577932_197678_FB (1).pdf_1.png,361,293,1558,449,Hospital_Name
+train_image/190620_165100_0107577932_197678_FB (1).pdf_1.png,89,609,1617,1056,Patient_Detail
+train_image/190620_165100_0107577932_197678_FB (1).pdf_1.png,83,1074,1621,2203,Table
+train_image/238596.pdf_6.png,107,155,1621,1069,Table
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_8.png,23,98,1565,2266,Table
+train_image/54125.pdf_12.png,11,18,1636,2324,non_Relevant
+train_image/238681.pdf_10.png,7,44,1636,2269,non_Relevant
+train_image/238622.pdf_5.png,12,2,1642,2338,non_Relevant
+train_image/54156.pdf_3.png,90,269,1600,554,Patient_Detail
+train_image/54156.pdf_3.png,96,569,1618,1066,Table
+train_image/50460.pdf_7.png,9,16,1643,2316,non_Relevant
+train_image/198830.pdf_13.png,875,144,1556,304,Hospital_Name
+train_image/198830.pdf_13.png,84,451,1490,994,Patient_Detail
+train_image/198830.pdf_13.png,81,1004,1562,1788,Table
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_8.png,50,25,1656,2260,non_Relevant
+train_image/198830.pdf_8.png,872,147,1556,301,Hospital_Name
+train_image/198830.pdf_8.png,81,444,1550,997,Patient_Detail
+train_image/198830.pdf_8.png,81,1010,1559,1822,Table
+train_image/56111.pdf_1.png,600,126,1368,269,Hospital_Name
+train_image/56111.pdf_1.png,96,294,1615,563,Patient_Detail
+train_image/56111.pdf_1.png,84,569,1621,1079,Table
+train_image/62143.pdf_13.png,16,16,1626,2316,non_Relevant
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_3.png,14,15,1617,2306,non_Relevant
+train_image/184019.pdf_6.png,24,15,1630,2318,non_Relevant
+train_image/200599.pdf_3.png,1057,173,1616,345,Hospital_Name
+train_image/200599.pdf_3.png,170,427,1595,948,Patient_Detail
+train_image/200599.pdf_3.png,157,967,1588,1889,Table
+train_image/199672.pdf_2.png,847,141,1572,329,Hospital_Name
+train_image/199672.pdf_2.png,93,404,1478,938,Patient_Detail
+train_image/199672.pdf_2.png,97,947,1493,1176,Table
+train_image/54113.pdf_42.png,15,13,1631,2316,non_Relevant
+train_image/62168.pdf_4.png,88,272,1585,563,Patient_Detail
+train_image/62168.pdf_4.png,85,566,1632,2226,Table
+train_image/56103.pdf_6.png,9,13,1640,2322,non_Relevant
+train_image/50430.pdf_2.png,402,72,1567,278,Hospital_Name
+train_image/50430.pdf_2.png,34,337,1146,866,Patient_Detail
+train_image/50430.pdf_2.png,20,910,1208,1710,Table
+train_image/45913.pdf_1.png,596,90,1328,246,Hospital_Name
+train_image/45913.pdf_1.png,80,386,1620,546,Patient_Detail
+train_image/45913.pdf_1.png,88,554,1632,1098,Table
+train_image/238596.pdf_39.png,103,130,1624,2305,non_Relevant
+train_image/238617.pdf_4.png,83,427,1555,848,Patient_Detail
+train_image/238617.pdf_4.png,90,876,1562,2226,Table
+train_image/238620.pdf_18.png,1,8,1625,2339,non_Relevant
+train_image/238596.pdf_11.png,53,30,1654,2272,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_9.png,27,1,1638,2322,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_8.png,20,29,1649,2336,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_10.png,24,970,1564,1778,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_10.png,67,375,1499,930,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_10.png,214,123,1169,245,Hospital_Name
+train_image/238596.pdf_10.png,14,37,1592,2280,non_Relevant
+train_image/238620.pdf_19.png,4,2,1652,2339,non_Relevant
+train_image/238596.pdf_38.png,42,66,1642,2326,non_Relevant
+train_image/238617.pdf_5.png,105,433,1551,848,Patient_Detail
+train_image/238617.pdf_5.png,105,866,1601,1691,Table
+train_image/56103.pdf_7.png,15,16,1643,2313,non_Relevant
+train_image/62168.pdf_5.png,16,26,1647,2322,non_Relevant
+train_image/50430.pdf_3.png,11,22,1674,2200,non_Relevant
+train_image/54113.pdf_43.png,9,7,1637,2322,non_Relevant
+train_image/50466.pdf_1.png,622,96,1355,229,Hospital_Name
+train_image/50466.pdf_1.png,97,248,1606,526,Patient_Detail
+train_image/50466.pdf_1.png,91,539,1649,1133,Table
+train_image/199672.pdf_3.png,875,147,1578,310,Hospital_Name
+train_image/199672.pdf_3.png,93,463,1459,997,Patient_Detail
+train_image/199672.pdf_3.png,90,1013,1562,1888,Table
+train_image/200599.pdf_2.png,16,20,1629,2330,non_Relevant
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_2.png,17,21,1639,2321,non_Relevant
+train_image/184019.pdf_7.png,17,9,1630,2318,non_Relevant
+train_image/62143.pdf_12.png,7,10,1638,2322,non_Relevant
+train_image/234071-MAHKOTA MEDICAL CENTRE.pdf_9.png,25,25,1647,2332,non_Relevant
+train_image/198830.pdf_9.png,865,154,1550,304,Hospital_Name
+train_image/198830.pdf_9.png,109,457,1475,979,Patient_Detail
+train_image/198830.pdf_9.png,97,997,1565,1804,Table
+train_image/198830.pdf_12.png,850,144,1559,307,Hospital_Name
+train_image/198830.pdf_12.png,103,444,1465,994,Patient_Detail
+train_image/198830.pdf_12.png,100,1007,1540,1769,Table
+train_image/50460.pdf_6.png,46,32,1631,2307,non_Relevant
+train_image/54156.pdf_2.png,96,257,1600,557,Patient_Detail
+train_image/54156.pdf_2.png,96,560,1621,2216,Table
+train_image/45926.pdf_1.png,590,116,1325,257,Hospital_Name
+train_image/45926.pdf_1.png,90,397,1618,544,Patient_Detail
+train_image/45926.pdf_1.png,96,541,1637,1147,Table
+train_image/238622.pdf_4.png,33,4,1628,2338,non_Relevant
+train_image/238681.pdf_11.png,1,33,1636,2312,non_Relevant
+train_image/54125.pdf_13.png,14,15,1636,2328,non_Relevant
+train_image/238596.pdf_7.png,155,68,863,367,Hospital_Name
+train_image/238596.pdf_7.png,158,434,1542,1014,Patient_Detail
+train_image/238596.pdf_7.png,117,1175,1584,2160,Table
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_9.png,62,58,1608,2301,non_Relevant
+train_image/54144.pdf_5.png,3,16,1628,2316,non_Relevant
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_11.png,11,21,1633,2306,non_Relevant
+train_image/71454.pdf_15.png,977,153,1580,318,Hospital_Name
+train_image/71454.pdf_15.png,108,456,1502,996,Patient_Detail
+train_image/71454.pdf_15.png,102,1018,1555,1824,Table
+train_image/71454.pdf_17.png,968,143,1577,318,Hospital_Name
+train_image/71454.pdf_17.png,99,440,1533,993,Patient_Detail
+train_image/71454.pdf_17.png,93,1003,1593,1803,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_13.png,8,12,1636,2309,non_Relevant
+train_image/62142.pdf_2.png,53,133,1590,1733,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_9.png,210,123,1249,258,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_9.png,67,358,1564,937,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_9.png,28,955,1592,1751,Table
+train_image/54144.pdf_7.png,3,7,1649,2337,non_Relevant
+train_image/238596.pdf_5.png,89,41,1654,2258,Table
+train_image/190620_165100_0107577932_197678_FB (1).pdf_2.png,24,21,1627,2318,non_Relevant
+train_image/50453.pdf_2.png,393,66,1581,287,Hospital_Name
+train_image/50453.pdf_2.png,46,328,1231,866,Patient_Detail
+train_image/50453.pdf_2.png,37,890,1226,1666,Table
+train_image/54125.pdf_11.png,5,6,1654,2338,non_Relevant
+train_image/238622.pdf_6.png,1,1,1651,2338,non_Relevant
+train_image/45926.pdf_3.png,90,382,1593,547,Patient_Detail
+train_image/45926.pdf_3.png,87,547,1625,2266,Table
+train_image/50460.pdf_4.png,87,241,1618,560,Patient_Detail
+train_image/50460.pdf_4.png,96,547,1625,2241,Table
+train_image/198830.pdf_10.png,847,144,1559,291,Hospital_Name
+train_image/198830.pdf_10.png,100,444,1487,982,Patient_Detail
+train_image/198830.pdf_10.png,90,1001,1553,1804,Table
+train_image/62143.pdf_10.png,10,16,1644,2326,non_Relevant
+train_image/56111.pdf_2.png,87,263,1609,569,Patient_Detail
+train_image/56111.pdf_2.png,84,572,1634,2260,Table
+train_image/184019.pdf_5.png,24,21,1630,2318,non_Relevant
+train_image/199672.pdf_1.png,853,129,1584,332,Hospital_Name
+train_image/199672.pdf_1.png,109,404,1493,926,Patient_Detail
+train_image/199672.pdf_1.png,112,944,1540,1863,Table
+train_image/62158.pdf_9.png,13,16,1638,2332,non_Relevant
+train_image/50466.pdf_3.png,128,239,1600,533,Patient_Detail
+train_image/50466.pdf_3.png,122,536,1646,2217,Table
+train_image/50430.pdf_1.png,399,72,1584,281,Hospital_Name
+train_image/50430.pdf_1.png,46,510,1134,1022,Patient_Detail
+train_image/50430.pdf_1.png,14,1075,1214,1690,Table
+train_image/56103.pdf_5.png,15,26,1634,2319,non_Relevant
+train_image/54113.pdf_41.png,21,16,1634,2304,non_Relevant
+train_image/238617.pdf_7.png,33,33,1626,2305,non_Relevant
+train_image/45913.pdf_2.png,84,379,1612,547,Patient_Detail
+train_image/45913.pdf_2.png,84,547,1628,2238,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_12.png,89,958,1614,1144,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_12.png,49,369,1474,951,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_12.png,217,116,1278,276,Hospital_Name
+train_image/238596.pdf_12.png,1,16,1624,2323,non_Relevant
+train_image/62035.pdf_10.png,19,32,1641,2329,non_Relevant
+train_image/62035.pdf_11.png,13,10,1641,2335,non_Relevant
+train_image/238596.pdf_13.png,14,23,1614,2340,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_13.png,39,10,1619,2340,non_Relevant
+train_image/238617.pdf_6.png,40,44,1630,2316,non_Relevant
+train_image/45913.pdf_3.png,87,382,1612,541,Patient_Detail
+train_image/45913.pdf_3.png,96,557,1628,1404,Table
+train_image/54113.pdf_40.png,21,35,1625,2326,non_Relevant
+train_image/56103.pdf_4.png,81,244,1581,541,Patient_Detail
+train_image/56103.pdf_4.png,81,551,1615,1754,Table
+train_image/62168.pdf_6.png,16,22,1635,2319,non_Relevant
+train_image/50466.pdf_2.png,128,236,1612,539,Patient_Detail
+train_image/50466.pdf_2.png,128,542,1664,2205,Table
+train_image/62158.pdf_8.png,13,16,1635,2319,non_Relevant
+train_image/184019.pdf_4.png,14,12,1633,2309,non_Relevant
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_1.png,102,646,1542,1090,Patient_Detail
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_1.png,67,1131,1602,2156,Table
+train_image/200599.pdf_1.png,7,8,1638,2333,non_Relevant
+train_image/62143.pdf_11.png,7,22,1647,2322,non_Relevant
+train_image/56111.pdf_3.png,93,254,1596,560,Patient_Detail
+train_image/56111.pdf_3.png,90,563,1646,2232,Table
+train_image/198830.pdf_11.png,856,144,1550,307,Hospital_Name
+train_image/198830.pdf_11.png,93,441,1487,994,Patient_Detail
+train_image/198830.pdf_11.png,93,1007,1537,1813,Table
+train_image/50460.pdf_5.png,100,266,1587,554,Patient_Detail
+train_image/50460.pdf_5.png,96,554,1637,1160,Table
+train_image/54156.pdf_1.png,596,107,1334,241,Hospital_Name
+train_image/54156.pdf_1.png,84,263,1609,551,Patient_Detail
+train_image/54156.pdf_1.png,78,547,1628,1063,Table
+train_image/238622.pdf_7.png,5,1,1623,2338,non_Relevant
+train_image/45926.pdf_2.png,106,369,1606,544,Patient_Detail
+train_image/45926.pdf_2.png,97,554,1631,2254,Table
+train_image/54125.pdf_10.png,8,3,1642,2328,non_Relevant
+train_image/190620_165100_0107577932_197678_FB (1).pdf_3.png,21,18,1627,2324,non_Relevant
+train_image/50453.pdf_3.png,14,19,1673,2192,non_Relevant
+train_image/238596.pdf_4.png,15,7,1653,2260,Table
+train_image/54144.pdf_6.png,3,4,1637,2322,non_Relevant
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_8.png,89,955,1574,1783,Table
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_8.png,42,355,1571,930,Patient_Detail
+train_image/238594-AMANJAYA SPECIALIST CENTRE.pdf_8.png,210,112,1192,244,Patient_Detail
+train_image/62142.pdf_3.png,93,120,684,470,Hospital_Name
+train_image/62142.pdf_3.png,87,489,1546,1158,Patient_Detail
+train_image/62142.pdf_3.png,96,1158,1581,2261,Table
+train_image/190623_092700_8001388821_201491_FB_CURRENT_BILL.pdf_12.png,30,12,1652,2271,non_Relevant
+train_image/71454.pdf_16.png,977,149,1590,321,Hospital_Name
+train_image/71454.pdf_16.png,86,459,1561,1009,Patient_Detail
+train_image/71454.pdf_16.png,86,1018,1571,1840,Table
+train_image/50443.pdf_10.png,17,23,1630,2314,non_Relevant
+train_image/62158.pdf_10.png,7,16,1638,2326,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_11.png,7,48,1632,2191,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_10.png,26,5,1615,2294,non_Relevant
+train_image/238727.pdf_1.png,44,530,1580,1208,Patient_Detail
+train_image/238727.pdf_1.png,37,144,644,505,Hospital_Name
+train_image/238727.pdf_1.png,25,1215,1648,2267,Table
+train_image/56047.pdf_8.png,109,244,1593,541,Patient_Detail
+train_image/56047.pdf_8.png,109,544,1625,810,Table
+train_image/238622.pdf_23.png,33,204,1612,1668,Table
+train_image/50443.pdf_38.png,14,17,1633,2323,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_17.png,924,122,1595,311,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_17.png,42,440,1585,965,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_17.png,52,990,1602,1793,Table
+train_image/238689- HOSPITAL FATIMAH.pdf_7.png,18,23,1614,2316,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_10.png,20,149,1617,1699,Table
+train_image/200599.pdf_27.png,38,20,1620,2311,non_Relevant
+train_image/56021.pdf_4.png,75,272,1587,538,Patient_Detail
+train_image/56021.pdf_4.png,68,560,1637,2244,Table
+train_image/54125.pdf_9.png,8,9,1630,2321,non_Relevant
+train_image/234089.pdf_2.png,2,11,1652,2331,non_Relevant
+train_image/239834.pdf_3.png,50,138,635,488,Hospital_Name
+train_image/239834.pdf_3.png,44,506,1573,1194,Patient_Detail
+train_image/239834.pdf_3.png,44,1181,1619,2252,Table
+train_image/62143.pdf_7.png,88,279,1610,563,Patient_Detail
+train_image/62143.pdf_7.png,85,572,1622,2244,Table
+train_image/56021.pdf_12.png,15,16,1640,2335,non_Relevant
+train_image/200593.pdf_1.png,70,433,1541,905,Patient_Detail
+train_image/200593.pdf_1.png,73,923,1548,1817,Table
+train_image/51427.pdf_15.png,28,19,1634,2316,non_Relevant
+train_image/238626 - LAM WAH EE.pdf_6.png,80,389,1627,503,Patient_Detail
+train_image/238626 - LAM WAH EE.pdf_6.png,90,506,1700,2174,Table
+train_image/238939.pdf_11.png,5,8,1619,2319,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_14.png,11,6,1696,2285,non_Relevant
+train_image/54113.pdf_33.png,21,13,1631,2322,non_Relevant
+train_image/234081.pdf_23.png,162,13,1598,2345,non_Relevant
+train_image/54113.pdf_27.png,9,22,1625,2316,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_28.png,36,14,1679,321,Table
+train_image/50443.pdf_8.png,11,14,1642,2320,non_Relevant
+train_image/239785.pdf_9.png,465,75,1123,297,Hospital_Name
+train_image/239785.pdf_9.png,73,362,1623,1032,Table
+train_image/62035.pdf_9.png,22,22,1644,2326,non_Relevant
+train_image/184019.pdf_14.png,952,140,1586,318,Hospital_Name
+train_image/184019.pdf_14.png,99,449,1574,990,Patient_Detail
+train_image/184019.pdf_14.png,96,1009,1580,1881,Table
+train_image/239038.pdf_34.png,36,39,1619,2289,non_Relevant
+train_image/239038.pdf_20.png,19,14,1604,2306,non_Relevant
+train_image/239038.pdf_21.png,4,17,1594,2306,non_Relevant
+train_image/184019.pdf_15.png,961,118,1589,312,Hospital_Name
+train_image/184019.pdf_15.png,89,453,1558,996,Patient_Detail
+train_image/184019.pdf_15.png,86,1018,1586,1878,Table
+train_image/234055.pdf_23.png,9,18,1650,2340,non_Relevant
+train_image/62035.pdf_8.png,12,13,1640,2329,non_Relevant
+train_image/50443.pdf_9.png,17,27,1636,2320,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_29.png,115,81,652,383,Hospital_Name
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_29.png,100,438,1548,1050,Patient_Detail
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_29.png,80,1144,1599,2170,Table
+train_image/239785.pdf_8.png,465,65,1108,300,Hospital_Name
+train_image/239785.pdf_8.png,19,400,1623,2154,Table
+train_image/54113.pdf_26.png,6,19,1643,2316,non_Relevant
+train_image/238768.pdf_1.png,97,146,754,521,Hospital_Name
+train_image/238768.pdf_1.png,89,528,1629,1264,Patient_Detail
+train_image/238768.pdf_1.png,93,1264,1651,2176,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_15.png,107,144,635,410,Hospital_Name
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_15.png,136,508,1675,1231,Patient_Detail
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_15.png,94,1231,1679,2317,Table
+train_image/234081.pdf_22.png,110,101,1557,2365,non_Relevant
+train_image/54113.pdf_32.png,21,29,1634,2326,non_Relevant
+train_image/238939.pdf_10.png,23,12,1654,2321,non_Relevant
+train_image/54113.pdf_1.png,603,129,1381,260,Hospital_Name
+train_image/54113.pdf_1.png,81,282,1643,554,Patient_Detail
+train_image/54113.pdf_1.png,93,563,1634,1182,Table
+train_image/238626 - LAM WAH EE.pdf_7.png,78,385,1576,493,Patient_Detail
+train_image/238626 - LAM WAH EE.pdf_7.png,88,508,1603,1603,Table
+train_image/62143.pdf_6.png,85,269,1610,554,Patient_Detail
+train_image/62143.pdf_6.png,88,566,1629,2226,Table
+train_image/56021.pdf_13.png,18,16,1643,2326,non_Relevant
+train_image/239834.pdf_2.png,51,162,1573,1694,Table
+train_image/234089.pdf_3.png,66,29,1627,2336,non_Relevant
+train_image/54125.pdf_8.png,8,9,1627,2315,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_11.png,26,195,1508,1738,Table
+train_image/56021.pdf_5.png,59,269,1590,551,Patient_Detail
+train_image/56021.pdf_5.png,46,569,1656,2257,Table
+train_image/200599.pdf_26.png,960,117,1523,314,Hospital_Name
+train_image/200599.pdf_26.png,70,448,1529,973,Patient_Detail
+train_image/200599.pdf_26.png,57,1014,1523,1758,Table
+train_image/238689- HOSPITAL FATIMAH.pdf_6.png,39,16,1607,2305,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_16.png,917,107,1613,332,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_16.png,88,432,1531,965,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_16.png,74,975,1606,1797,Table
+train_image/238727.pdf_20.png,40,33,1637,2316,non_Relevant
+train_image/238622.pdf_22.png,37,179,1626,1675,Table
+train_image/50443.pdf_39.png,17,11,1639,2330,non_Relevant
+train_image/56047.pdf_9.png,9,22,1631,2304,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_11.png,62,83,1565,2233,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_10.png,39,23,1575,2294,non_Relevant
+train_image/62158.pdf_11.png,10,16,1641,2329,non_Relevant
+train_image/50443.pdf_11.png,17,17,1633,2308,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_13.png,23,69,1644,2262,non_Relevant
+train_image/50443.pdf_13.png,17,17,1642,2317,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_12.png,28,387,1625,2012,non_Relevant
+train_image/238622.pdf_20.png,21,24,1615,2302,non_Relevant
+train_image/238727.pdf_2.png,19,119,1598,2333,Table
+train_image/50486.pdf_10.png,25,16,1628,2322,non_Relevant
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_8.png,16,245,1629,1405,Table
+train_image/238675 - GLENEAGLES KL.pdf_14.png,10,4,1619,2338,non_Relevant
+train_image/238634.pdf_8.png,56,30,1628,2294,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_4.png,103,155,1189,444,Hospital_Name
+train_image/238689- HOSPITAL FATIMAH.pdf_4.png,100,448,1614,2187,Table
+train_image/200599.pdf_24.png,957,117,1507,323,Hospital_Name
+train_image/200599.pdf_24.png,54,448,1498,986,Patient_Detail
+train_image/200599.pdf_24.png,51,1008,1523,1823,Table
+train_image/56021.pdf_7.png,9,10,1637,2313,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_13.png,50,4,1658,2360,non_Relevant
+train_image/200599.pdf_18.png,966,133,1538,311,Hospital_Name
+train_image/200599.pdf_18.png,79,439,1445,967,Patient_Detail
+train_image/200599.pdf_18.png,73,1002,1560,1820,Table
+train_image/234089.pdf_1.png,101,448,1561,923,Patient_Detail
+train_image/234089.pdf_1.png,108,935,1573,1815,Table
+train_image/234089.pdf_1.png,1113,70,1566,248,Hospital_Name
+train_image/54167.pdf_8.png,12,7,1646,2322,non_Relevant
+train_image/238626 - LAM WAH EE.pdf_5.png,87,370,1610,487,Patient_Detail
+train_image/238626 - LAM WAH EE.pdf_5.png,90,503,1670,2153,Table
+train_image/51427.pdf_16.png,18,16,1634,2313,non_Relevant
+train_image/54113.pdf_3.png,75,260,1596,551,Patient_Detail
+train_image/54113.pdf_3.png,75,566,1646,2276,Table
+train_image/56021.pdf_11.png,18,13,1646,2326,non_Relevant
+train_image/200593.pdf_2.png,4,11,1641,2327,non_Relevant
+train_image/62143.pdf_4.png,91,279,1607,557,Patient_Detail
+train_image/62143.pdf_4.png,85,572,1656,2255,Table
+train_image/238620.pdf_8.png,80,391,1594,808,Patient_Detail
+train_image/238620.pdf_8.png,65,866,1640,1512,Table
+train_image/238939.pdf_12.png,12,23,1600,2340,non_Relevant
+train_image/238768.pdf_3.png,111,60,736,431,Hospital_Name
+train_image/238768.pdf_3.png,114,453,1622,1067,Patient_Detail
+train_image/238768.pdf_3.png,122,1074,1643,2024,Table
+train_image/54113.pdf_24.png,18,10,1640,2329,non_Relevant
+train_image/54113.pdf_30.png,31,26,1628,2319,non_Relevant
+train_image/234081.pdf_20.png,55,19,1588,2219,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_17.png,115,167,1608,892,Table
+train_image/238747.pdf_9.png,5,33,1637,2308,non_Relevant
+train_image/54113.pdf_18.png,9,10,1637,2329,non_Relevant
+train_image/239834.pdf_18.png,51,30,1654,2322,non_Relevant
+train_image/184019.pdf_17.png,955,143,1580,324,Hospital_Name
+train_image/184019.pdf_17.png,105,437,1539,993,Patient_Detail
+train_image/184019.pdf_17.png,105,1003,1580,1787,Table
+train_image/239038.pdf_23.png,8,10,1665,2296,non_Relevant
+train_image/239038.pdf_22.png,15,14,1665,2274,non_Relevant
+train_image/184019.pdf_16.png,955,124,1580,306,Hospital_Name
+train_image/184019.pdf_16.png,99,453,1555,984,Patient_Detail
+train_image/184019.pdf_16.png,99,1006,1577,1824,Table
+train_image/238747.pdf_8.png,8,44,1637,2326,non_Relevant
+train_image/54113.pdf_19.png,31,26,1634,2313,non_Relevant
+train_image/234081.pdf_21.png,83,30,1530,2219,non_Relevant
+train_image/54113.pdf_31.png,12,13,1621,2319,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_16.png,11,149,1636,2160,Table
+train_image/54113.pdf_25.png,18,22,1646,2322,non_Relevant
+train_image/238768.pdf_2.png,25,192,1651,1688,Table
+train_image/238939.pdf_13.png,30,8,1623,2312,non_Relevant
+train_image/238620.pdf_9.png,8,8,1642,2339,non_Relevant
+train_image/200593.pdf_3.png,63,427,1541,873,Patient_Detail
+train_image/200593.pdf_3.png,51,889,1538,2233,Table
+train_image/56021.pdf_10.png,12,10,1640,2322,non_Relevant
+train_image/62143.pdf_5.png,79,279,1613,563,Patient_Detail
+train_image/62143.pdf_5.png,72,569,1635,2247,Table
+train_image/238626 - LAM WAH EE.pdf_4.png,88,387,1580,487,Patient_Detail
+train_image/238626 - LAM WAH EE.pdf_4.png,70,506,1650,2123,Table
+train_image/54113.pdf_2.png,81,235,1625,554,Patient_Detail
+train_image/54113.pdf_2.png,78,566,1625,2269,Table
+train_image/51427.pdf_17.png,12,7,1640,2310,non_Relevant
+train_image/239834.pdf_1.png,87,133,715,483,Hospital_Name
+train_image/239834.pdf_1.png,98,508,1558,1258,Patient_Detail
+train_image/239834.pdf_1.png,112,1255,1623,2151,Table
+train_image/54167.pdf_9.png,15,13,1643,2322,non_Relevant
+train_image/200599.pdf_19.png,985,123,1538,302,Hospital_Name
+train_image/200599.pdf_19.png,70,445,1545,973,Patient_Detail
+train_image/200599.pdf_19.png,63,1014,1551,1777,Table
+train_image/56021.pdf_6.png,90,266,1600,551,Patient_Detail
+train_image/56021.pdf_6.png,93,569,1656,2277,Table
+train_image/200599.pdf_25.png,954,127,1532,311,Hospital_Name
+train_image/200599.pdf_25.png,60,445,1526,970,Patient_Detail
+train_image/200599.pdf_25.png,66,1008,1588,1823,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_12.png,1,236,1297,456,Table
+train_image/238689- HOSPITAL FATIMAH.pdf_5.png,121,212,1232,416,Patient_Detail
+train_image/238689- HOSPITAL FATIMAH.pdf_5.png,111,437,1586,923,Table
+train_image/238675 - GLENEAGLES KL.pdf_15.png,971,100,1613,329,Hospital_Name
+train_image/238675 - GLENEAGLES KL.pdf_15.png,68,421,1523,968,Patient_Detail
+train_image/238675 - GLENEAGLES KL.pdf_15.png,45,982,1608,1808,Table
+train_image/238673-KPJ RAWANG SPECIALIST HOSPITAL.pdf_9.png,14,223,1439,708,Table
+train_image/238634.pdf_9.png,17,23,1613,2316,non_Relevant
+train_image/238727.pdf_23.png,40,16,1637,2308,non_Relevant
+train_image/50486.pdf_11.png,9,16,1625,2307,non_Relevant
+train_image/238727.pdf_3.png,23,33,1651,2258,Table
+train_image/238622.pdf_21.png,11,334,1443,861,Patient_Detail
+train_image/238622.pdf_21.png,8,916,1598,1687,Table
+train_image/62158.pdf_12.png,22,26,1635,2310,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_13.png,29,30,1624,2339,non_Relevant
+train_image/50443.pdf_12.png,20,14,1630,2302,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_12.png,73,155,1573,2258,non_Relevant
+train_image/238622.pdf_25.png,7,143,1637,2063,Table
+train_image/238727.pdf_7.png,62,155,1601,1583,Table
+train_image/50464.pdf_8.png,71,269,1578,554,Patient_Detail
+train_image/50464.pdf_8.png,84,560,1615,1076,Table
+train_image/238622.pdf_19.png,32,19,1652,2300,non_Relevant
+train_image/50443.pdf_16.png,20,17,1642,2336,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_17.png,21,16,1647,2339,non_Relevant
+train_image/238727.pdf_33.png,15,8,1562,2312,non_Relevant
+train_image/238727.pdf_27.png,30,26,1654,2317,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_1.png,389,176,1141,314,Hospital_Name
+train_image/238689- HOSPITAL FATIMAH.pdf_1.png,105,366,1507,743,Patient_Detail
+train_image/238689- HOSPITAL FATIMAH.pdf_1.png,81,757,1573,1810,Table
+train_image/234081.pdf_8.png,1,173,1433,1648,Table
+train_image/238675 - GLENEAGLES KL.pdf_11.png,23,13,1610,2338,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_16.png,37,22,1657,2354,non_Relevant
+train_image/200599.pdf_21.png,976,136,1541,327,Hospital_Name
+train_image/200599.pdf_21.png,76,439,1482,992,Patient_Detail
+train_image/200599.pdf_21.png,76,1014,1576,1823,Table
+train_image/56021.pdf_2.png,62,266,1606,541,Patient_Detail
+train_image/56021.pdf_2.png,65,560,1650,2238,Table
+train_image/239834.pdf_5.png,30,23,1654,2188,Table
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_9.png,43,5,1643,2237,non_Relevant
+train_image/234089.pdf_4.png,1,29,1631,2336,non_Relevant
+train_image/45924.pdf_8.png,14,15,1639,2328,non_Relevant
+train_image/51427.pdf_13.png,21,22,1643,2326,non_Relevant
+train_image/54113.pdf_6.png,62,260,1615,557,Patient_Detail
+train_image/54113.pdf_6.png,65,563,1625,2260,Table
+train_image/62143.pdf_1.png,597,126,1335,254,Hospital_Name
+train_image/62143.pdf_1.png,91,276,1616,557,Patient_Detail
+train_image/62143.pdf_1.png,91,566,1641,1144,Table
+train_image/56021.pdf_14.png,6,10,1643,2329,non_Relevant
+train_image/200593.pdf_7.png,35,436,1535,883,Patient_Detail
+train_image/234081.pdf_19.png,1,29,1576,2206,non_Relevant
+train_image/238768.pdf_6.png,32,28,1651,2266,Table
+train_image/54113.pdf_21.png,31,22,1625,2319,non_Relevant
+train_image/234081.pdf_25.png,198,19,1637,2365,non_Relevant
+train_image/239038.pdf_8.png,57,129,663,481,Hospital_Name
+train_image/239038.pdf_8.png,38,499,1591,1257,Patient_Detail
+train_image/239038.pdf_8.png,28,1262,1664,2122,Table
+train_image/54113.pdf_35.png,3,16,1646,2329,non_Relevant
+train_image/239038.pdf_26.png,26,31,1654,2289,non_Relevant
+train_image/239038.pdf_32.png,22,21,1658,2303,non_Relevant
+train_image/184019.pdf_12.png,967,149,1577,318,Hospital_Name
+train_image/184019.pdf_12.png,108,443,1533,987,Patient_Detail
+train_image/184019.pdf_12.png,102,1009,1574,1828,Table
+train_image/234055.pdf_24.png,13,11,1646,2340,non_Relevant
+train_image/234055.pdf_25.png,13,11,1648,2340,non_Relevant
+train_image/184019.pdf_13.png,967,143,1583,324,Hospital_Name
+train_image/184019.pdf_13.png,102,453,1539,993,Patient_Detail
+train_image/184019.pdf_13.png,105,1015,1574,1868,Table
+train_image/239038.pdf_33.png,36,28,1654,2285,non_Relevant
+train_image/239038.pdf_27.png,19,35,1658,2274,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_13.png,15,14,1686,2299,non_Relevant
+train_image/54113.pdf_34.png,9,10,1643,2326,non_Relevant
+train_image/239038.pdf_9.png,53,153,1663,1721,Table
+train_image/234081.pdf_24.png,127,8,1613,2336,non_Relevant
+train_image/54113.pdf_20.png,21,26,1640,2319,non_Relevant
+train_image/238768.pdf_7.png,57,35,1651,2129,Table
+train_image/234081.pdf_18.png,34,6,1534,2191,non_Relevant
+train_image/200593.pdf_6.png,107,427,1595,873,Patient_Detail
+train_image/200593.pdf_6.png,110,880,1585,2242,Table
+train_image/54113.pdf_7.png,87,257,1621,557,Patient_Detail
+train_image/54113.pdf_7.png,90,560,1628,2288,Table
+train_image/51427.pdf_12.png,21,16,1637,2322,non_Relevant
+train_image/45924.pdf_9.png,11,12,1639,2328,non_Relevant
+train_image/234089.pdf_5.png,2,22,1620,2125,non_Relevant
+train_image/238647-KPJ KLANG SPECIALIST HOSPITAL.pdf_8.png,18,23,1643,2283,non_Relevant
+train_image/239834.pdf_4.png,30,55,1654,2239,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_17.png,46,33,1659,1294,non_Relevant
+train_image/56021.pdf_3.png,71,238,1631,560,Patient_Detail
+train_image/56021.pdf_3.png,78,576,1643,2257,Table
+train_image/200599.pdf_20.png,963,130,1551,314,Hospital_Name
+train_image/200599.pdf_20.png,85,439,1498,964,Patient_Detail
+train_image/200599.pdf_20.png,88,992,1623,1798,Table
+train_image/238675 - GLENEAGLES KL.pdf_10.png,24,22,1624,2332,non_Relevant
+train_image/234081.pdf_9.png,1,185,1427,1667,Table
+train_image/238727.pdf_26.png,15,19,1654,2290,non_Relevant
+train_image/238727.pdf_32.png,26,5,1612,2340,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_16.png,36,23,1628,2319,non_Relevant
+train_image/238622.pdf_18.png,21,24,1652,2313,non_Relevant
+train_image/50464.pdf_9.png,15,16,1640,2326,non_Relevant
+train_image/238727.pdf_6.png,115,1255,1583,2291,Table
+train_image/238727.pdf_6.png,130,533,1562,1241,Patient_Detail
+train_image/238727.pdf_6.png,133,158,708,506,Hospital_Name
+train_image/238622.pdf_24.png,26,49,1611,1974,Table
+train_image/50443.pdf_29.png,17,20,1624,2323,non_Relevant
+train_image/238727.pdf_4.png,19,16,1654,2225,Table
+train_image/238622.pdf_26.png,16,211,1580,421,Table
+train_image/50443.pdf_15.png,20,14,1642,2323,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_14.png,14,23,1635,2339,non_Relevant
+train_image/239810.pdf_8.png,18,4,1632,2318,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_15.png,19,55,1583,2255,non_Relevant
+train_image/238727.pdf_24.png,26,30,1612,2301,non_Relevant
+train_image/238727.pdf_30.png,55,51,1629,2340,non_Relevant
+train_image/238727.pdf_18.png,23,37,1654,2300,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_2.png,78,78,1405,520,Patient_Detail
+train_image/238689- HOSPITAL FATIMAH.pdf_2.png,93,526,1545,814,Table
+train_image/238675 - GLENEAGLES KL.pdf_12.png,20,4,1638,2336,non_Relevant
+train_image/200599.pdf_22.png,966,127,1523,308,Hospital_Name
+train_image/200599.pdf_22.png,82,442,1370,973,Patient_Detail
+train_image/200599.pdf_22.png,76,992,1529,1798,Table
+train_image/56021.pdf_1.png,603,126,1340,254,Hospital_Name
+train_image/56021.pdf_1.png,106,269,1618,554,Patient_Detail
+train_image/56021.pdf_1.png,96,554,1631,1191,Table
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_15.png,30,23,1674,2349,non_Relevant
+train_image/239834.pdf_6.png,48,33,1653,833,Table
+train_image/234089.pdf_7.png,45,322,1580,2337,Table
+train_image/238939.pdf_14.png,33,30,1654,2314,non_Relevant
+train_image/71454.pdf_9.png,9,12,1643,2331,non_Relevant
+train_image/239086.pdf_8.png,53,51,1595,2273,non_Relevant
+train_image/238681.pdf_9.png,18,9,1618,2225,non_Relevant
+train_image/200593.pdf_4.png,123,445,1591,877,Patient_Detail
+train_image/200593.pdf_4.png,113,886,1588,2211,Table
+train_image/62143.pdf_2.png,85,276,1585,560,Patient_Detail
+train_image/62143.pdf_2.png,82,576,1626,2222,Table
+train_image/238626 - LAM WAH EE.pdf_3.png,99,706,1579,1053,Patient_Detail
+train_image/238626 - LAM WAH EE.pdf_3.png,101,1075,1666,2133,Table
+train_image/51427.pdf_10.png,15,16,1634,2322,non_Relevant
+train_image/54113.pdf_5.png,81,244,1618,554,Patient_Detail
+train_image/54113.pdf_5.png,84,557,1643,2282,Table
+train_image/54113.pdf_36.png,18,16,1628,2313,non_Relevant
+train_image/239785.pdf_10.png,548,75,1265,357,Hospital_Name
+train_image/239785.pdf_10.png,85,484,1606,1076,Patient_Detail
+train_image/239785.pdf_10.png,103,1082,1619,2263,Table
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_11.png,36,24,1644,2199,non_Relevant
+train_image/238768.pdf_5.png,104,135,682,496,Hospital_Name
+train_image/238768.pdf_5.png,79,506,1647,1167,Patient_Detail
+train_image/238768.pdf_5.png,75,1171,1651,2327,Table
+train_image/54113.pdf_22.png,21,16,1640,2329,non_Relevant
+train_image/239038.pdf_31.png,11,17,1669,2296,non_Relevant
+train_image/239038.pdf_25.png,29,39,1640,2289,non_Relevant
+train_image/234055.pdf_27.png,246,73,1614,2244,non_Relevant
+train_image/239038.pdf_19.png,19,21,1644,2299,non_Relevant
+train_image/184019.pdf_11.png,955,153,1567,309,Hospital_Name
+train_image/184019.pdf_11.png,89,449,1555,999,Patient_Detail
+train_image/184019.pdf_11.png,86,1012,1571,1799,Table
+train_image/239038.pdf_18.png,26,10,1694,2321,non_Relevant
+train_image/184019.pdf_10.png,11,12,1630,2315,non_Relevant
+train_image/234055.pdf_26.png,6,8,1650,2332,non_Relevant
+train_image/239038.pdf_24.png,10,3,1645,2314,non_Relevant
+train_image/239038.pdf_30.png,26,17,1658,2303,non_Relevant
+train_image/54113.pdf_23.png,9,22,1631,2310,non_Relevant
+train_image/238768.pdf_4.png,136,71,725,428,Hospital_Name
+train_image/238768.pdf_4.png,118,428,1643,1060,Patient_Detail
+train_image/238768.pdf_4.png,118,1067,1643,1671,Table
+train_image/239785.pdf_11.png,587,86,1233,332,Hospital_Name
+train_image/239785.pdf_11.png,163,386,1576,509,Patient_Detail
+train_image/239785.pdf_11.png,163,501,1631,1368,Table
+train_image/54113.pdf_37.png,18,22,1618,2319,non_Relevant
+train_image/238757- COLUMBIA ASIA HOSPITAL (CHERAS).pdf_10.png,11,21,1636,2303,non_Relevant
+train_image/238626 - LAM WAH EE.pdf_2.png,118,492,1660,664,Table
+train_image/238626 - LAM WAH EE.pdf_2.png,132,674,1622,876,Table
+train_image/54113.pdf_4.png,81,241,1603,557,Patient_Detail
+train_image/54113.pdf_4.png,75,563,1640,2297,Table
+train_image/51427.pdf_11.png,15,19,1646,2316,non_Relevant
+train_image/200593.pdf_5.png,60,442,1538,861,Patient_Detail
+train_image/200593.pdf_5.png,70,892,1563,2202,Table
+train_image/238681.pdf_8.png,57,876,1571,1930,Table
+train_image/238681.pdf_8.png,75,426,1568,841,Patient_Detail
+train_image/238681.pdf_8.png,389,87,1203,294,Hospital_Name
+train_image/239086.pdf_9.png,35,8,1599,2269,non_Relevant
+train_image/62143.pdf_3.png,91,276,1576,569,Patient_Detail
+train_image/62143.pdf_3.png,94,572,1638,2251,Table
+train_image/71454.pdf_8.png,15,24,1640,2324,non_Relevant
+train_image/238939.pdf_15.png,12,8,1633,2312,non_Relevant
+train_image/234089.pdf_6.png,6,29,1545,2111,non_Relevant
+train_image/239834.pdf_7.png,121,56,685,394,Hospital_Name
+train_image/239834.pdf_7.png,110,435,1521,1088,Patient_Detail
+train_image/239834.pdf_7.png,102,1081,1585,1800,Table
+train_image/200599.pdf_23.png,966,136,1557,323,Hospital_Name
+train_image/200599.pdf_23.png,66,439,1416,980,Patient_Detail
+train_image/200599.pdf_23.png,54,1008,1516,1833,Table
+train_image/56091.pdf_8.png,21,13,1643,2322,non_Relevant
+train_image/234081-KEDAH MEDICAL CENTRE.pdf_14.png,95,120,1639,2338,non_Relevant
+train_image/238675 - GLENEAGLES KL.pdf_13.png,17,4,1613,2307,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_3.png,50,76,1218,2255,Table
+train_image/238727.pdf_19.png,15,23,1654,2314,non_Relevant
+train_image/238727.pdf_31.png,5,5,1654,2322,non_Relevant
+train_image/238727.pdf_25.png,30,8,1630,2323,non_Relevant
+train_image/239810.pdf_9.png,7,1,1652,2311,non_Relevant
+train_image/238642-ORIENTAL MELAKA STRAITS MEDICAL CENTRE.pdf_14.png,12,48,1654,2291,non_Relevant
+train_image/238689- HOSPITAL FATIMAH.pdf_15.png,18,23,1619,2339,non_Relevant
+train_image/50443.pdf_14.png,1,1,1637,2309,non_Relevant
+train_image/50443.pdf_28.png,14,5,1633,2320,non_Relevant
+train_image/238727.pdf_5.png,112,141,1601,287,Table
